@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#F6F4EE"/>
+  <rect x="32" y="32" width="736" height="536" rx="6" fill="#EFF0EA" stroke="#D9DDD2"/>
+  <ellipse cx="400" cy="455" rx="210" ry="26" fill="#E1E4DA"/>
+  <!-- Linen Wrap -->
+  <path d="M320 310 L480 310 L445 445 L355 445 Z" fill="#FAF8F3" stroke="#D1C9BC" stroke-width="2"/>
+  <line x1="348" y1="385" x2="452" y2="385" stroke="#4A6353" stroke-width="3"/>
+  <!-- Serene White Blossoms & Sage Leaves -->
+  <ellipse cx="345" cy="270" rx="28" ry="14" transform="rotate(-30 345 270)" fill="#587262"/>
+  <ellipse cx="455" cy="270" rx="28" ry="14" transform="rotate(30 455 270)" fill="#587262"/>
+  <ellipse cx="400" cy="235" rx="20" ry="34" fill="#6B8575"/>
+  <circle cx="370" cy="280" r="26" fill="#FFFFFF" stroke="#E2DEC9" stroke-width="2"/>
+  <circle cx="430" cy="280" r="26" fill="#FFFFFF" stroke="#E2DEC9" stroke-width="2"/>
+  <circle cx="400" cy="255" r="30" fill="#FFFFFF" stroke="#E2DEC9" stroke-width="2"/>
+  <text x="400" y="515" text-anchor="middle" fill="#4E5851" font-family="sans-serif" font-size="13" letter-spacing="1.5">SERENE WHITE FLORAL &amp; CONDOLENCE TRIBUTE · STUDIO PLACEHOLDER</text>
+</svg>

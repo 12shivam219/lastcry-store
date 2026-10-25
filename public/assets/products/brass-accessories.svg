@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#F6F3EC"/>
+  <rect x="32" y="32" width="736" height="536" rx="6" fill="#EFEBE2" stroke="#DDD6C7"/>
+  <ellipse cx="400" cy="450" rx="230" ry="28" fill="#E1DAD0"/>
+  <!-- Matte Brass Diya & Incense Holder -->
+  <path d="M270 385 C270 425 390 425 390 385 L410 360 L250 360 Z" fill="#C49E62" stroke="#96743F" stroke-width="2.5"/>
+  <rect x="440" y="330" width="110" height="80" rx="8" fill="#D5B682" stroke="#96743F" stroke-width="2"/>
+  <line x1="495" y1="230" x2="495" y2="330" stroke="#7A5C3E" stroke-width="3"/>
+  <text x="400" y="515" text-anchor="middle" fill="#5C5852" font-family="sans-serif" font-size="13" letter-spacing="1.5">TRADITIONAL BRASS &amp; SANDALWOOD ACCESSORIES · STUDIO PLACEHOLDER</text>
+</svg>

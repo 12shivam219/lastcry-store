@@ -1,0 +1,2590 @@
+{
+  "categories": [
+    {
+      "id": "cat-essentials",
+      "name": "Last-Rites Essentials",
+      "slug": "last-rites-essentials",
+      "groupSlug": "essentials",
+      "description": "Foundational vessels, natural cotton wicks, earthen pots, and preparation items commonly needed for immediate family rites.",
+      "seoTitle": "Last-Rites Essentials | LastCry India",
+      "seoDescription": "Shop verified last-rites essentials including unglazed earthenware, copper vessels, and preparation supplies with transparent pricing.",
+      "publicationStatus": "PUBLISHED",
+      "sortOrder": 1
+    },
+    {
+      "id": "cat-textiles",
+      "name": "Shrouds & Customary Textiles",
+      "slug": "shrouds-customary-textiles",
+      "groupSlug": "essentials",
+      "description": "Unbleached handspun cotton, pure white khadi, kafan cloth sets, and traditional textiles prepared to customary dimensions.",
+      "seoTitle": "Shrouds & Customary Textiles | LastCry India",
+      "seoDescription": "Pure unbleached cotton shrouds, white khadi fabrics, and customary textiles with verified dimensions and clear material specifications.",
+      "publicationStatus": "PUBLISHED",
+      "sortOrder": 2
+    },
+    {
+      "id": "cat-ritual-supplies",
+      "name": "Tradition-Specific Ritual Supplies",
+      "slug": "tradition-specific-ritual-supplies",
+      "groupSlug": "essentials",
+      "description": "Sacred threads, sandalwood pieces, natural camphor, sesame, and botanical preparations categorized with regional context notes.",
+      "seoTitle": "Tradition-Specific Ritual Supplies | LastCry India",
+      "seoDescription": "Browse tradition-specific ritual supplies with clear essential, optional, and region-dependent guidance.",
+      "publicationStatus": "PUBLISHED",
+      "sortOrder": 3
+    },
+    {
+      "id": "cat-kits",
+      "name": "Curated Ritual Kits",
+      "slug": "curated-ritual-kits",
+      "groupSlug": "ritual-kits",
+      "description": "Complete, contributor-reviewed kits organized by community and regional custom, with transparent item-by-item checklists.",
+      "seoTitle": "Curated Ritual Kits | LastCry India",
+      "seoDescription": "Thoughtfully assembled last-rites and prayer kits with complete contents lists, optional additions, and regional notes.",
+      "publicationStatus": "PUBLISHED",
+      "sortOrder": 4
+    },
+    {
+      "id": "cat-flowers",
+      "name": "Funeral & Memorial Flowers",
+      "slug": "funeral-memorial-flowers",
+      "groupSlug": "condolence-gifts",
+      "description": "Tasteful white chrysanthemum, mogra jasmine, lotus, and eucalyptus floral tributes available in supported local hub zones.",
+      "seoTitle": "Funeral & Memorial Flowers | LastCry India",
+      "seoDescription": "Order respectful floral tributes and garlands in supported metropolitan PIN codes with honest delivery windows.",
+      "publicationStatus": "PUBLISHED",
+      "sortOrder": 5
+    },
+    {
+      "id": "cat-condolence",
+      "name": "Condolence Cards & Gifts",
+      "slug": "condolence-cards-gifts",
+      "groupSlug": "condolence-gifts",
+      "description": "Letterpress sympathy cards on archival cotton paper, quiet herbal tea care parcels, and respectful household support gifts.",
+      "seoTitle": "Condolence Cards & Thoughtful Sympathy Gifts | LastCry India",
+      "seoDescription": "Send understated condolence cards and thoughtful care packages to bereaved families across India.",
+      "publicationStatus": "PUBLISHED",
+      "sortOrder": 6
+    },
+    {
+      "id": "cat-frames",
+      "name": "Memorial Frames & Printed Photographs",
+      "slug": "memorial-frames-photographs",
+      "groupSlug": "memorials",
+      "description": "Solid Indian teakwood and matte brass portrait frames with acid-free archival mounts for prayer meetings and home remembrance.",
+      "seoTitle": "Memorial Frames & Portrait Displays | LastCry India",
+      "seoDescription": "Handcrafted solid teakwood memorial frames with archival mats for remembrance gatherings and home shrines.",
+      "publicationStatus": "PUBLISHED",
+      "sortOrder": 7
+    },
+    {
+      "id": "cat-books",
+      "name": "Remembrance Books & Keepsakes",
+      "slug": "remembrance-books-keepsakes",
+      "groupSlug": "memorials",
+      "description": "Linen-bound condolence registers, guest memory books, and brass or wooden keepsake vessels for ashes or mementos.",
+      "seoTitle": "Remembrance Books & Keepsakes | LastCry India",
+      "seoDescription": "Archival linen condolence registers and handcrafted keepsake vessels for prayer meetings and family archives.",
+      "publicationStatus": "PUBLISHED",
+      "sortOrder": 8
+    },
+    {
+      "id": "cat-accessories",
+      "name": "Relevant Non-Regulated Accessories",
+      "slug": "non-regulated-accessories",
+      "groupSlug": "essentials",
+      "description": "Matte brass oil lamps (diyas), incense holders, cotton floor mats (dari), and biodegradable storage bags.",
+      "seoTitle": "Prayer & Memorial Accessories | LastCry India",
+      "seoDescription": "Traditional matte brass diyas, incense stands, and woven cotton mats for prayer and remembrance.",
+      "publicationStatus": "PUBLISHED",
+      "sortOrder": 9
+    },
+    {
+      "id": "cat-services",
+      "name": "Optional Services & Service Referrals",
+      "slug": "optional-services-referrals",
+      "groupSlug": "services",
+      "description": "Directory referrals for local florists, memorial printers, transport providers, and grief counselling organizations.",
+      "seoTitle": "Local Funeral & Memorial Service Directory | LastCry India",
+      "seoDescription": "Find local memorial printers, florists, transport referrals, and grief support organizations in supported cities.",
+      "publicationStatus": "PUBLISHED",
+      "sortOrder": 10
+    }
+  ],
+  "traditions": [
+    {
+      "id": "trad-hindu",
+      "name": "Hindu Traditions",
+      "slug": "hindu-traditions",
+      "shortLabel": "Hindu Customs",
+      "description": "Supplies commonly used across Antyeshti, Chautha, Terahvin, and Shraddha observances, with clear notes on regional variations between North, West, South, and East Indian customs.",
+      "regionalQualificationNote": "Navigation aid only: Hindu last-rites practices vary significantly by sampradaya, region, language community, and family custom. Items are marked as commonly essential, optional, or region-dependent.",
+      "reviewerName": "Dr. Arvind Shastri, PhD (Indology & Dharmashastra Studies)",
+      "reviewerCredentials": "Academic Advisor & Cultural Continuity Reviewer",
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "lastReviewedAt": "2026-09-15"
+    },
+    {
+      "id": "trad-muslim",
+      "name": "Muslim Traditions",
+      "slug": "muslim-traditions",
+      "shortLabel": "Muslim Customs",
+      "description": "Unstitched pure white cotton Kafan sets (3-piece and 5-piece configurations), camphor (kafoor), sidr (beri leaf) wash preparations, and rosewater.",
+      "regionalQualificationNote": "Navigation aid only: Practices and shroud folding conventions may differ between Sunni, Shia, Bohra, and regional community jamaats. Consult family elders or local masjid caretakers where preferred.",
+      "reviewerName": "Maulana Tariq Nadvi & Community Advisory Panel",
+      "reviewerCredentials": "Islamic Jurisprudence & Community Rites Reviewer",
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "lastReviewedAt": "2026-09-18"
+    },
+    {
+      "id": "trad-christian",
+      "name": "Christian Traditions",
+      "slug": "christian-traditions",
+      "shortLabel": "Christian Customs",
+      "description": "Beeswax vigil candles, white linen altar cloths, condolence registers, floral wreaths, and memorial service stationery suitable across Catholic, Protestant, and Syrian Christian traditions.",
+      "regionalQualificationNote": "Navigation aid only: Liturgical customs vary between Roman Catholic, CSI/CNI, Mar Thoma, Syrian Orthodox, and evangelical congregations across India.",
+      "reviewerName": "Rev. Thomas Kurien (Liturgical & Pastoral Care Advisor)",
+      "reviewerCredentials": "Inter-Church Pastoral Care Reviewer",
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "lastReviewedAt": "2026-09-20"
+    },
+    {
+      "id": "trad-sikh",
+      "name": "Sikh Traditions",
+      "slug": "sikh-traditions",
+      "shortLabel": "Sikh Customs",
+      "description": "Unbleached white cotton textiles for Antam Sanskar, dignified white Rumala Sahib sets, cotton floor coverings for Path & Antim Ardas, and remembrance essentials.",
+      "regionalQualificationNote": "Navigation aid only: Sikh Antam Sanskar and Antim Ardas observances emphasize simplicity and Gurmat Maryada; families may coordinate directly with their local Gurdwara Prabandhak Committee.",
+      "reviewerName": "Prof. Gurpreet Singh Sandhu",
+      "reviewerCredentials": "Sikh Studies & Gurmat Tradition Reviewer",
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "lastReviewedAt": "2026-09-22"
+    },
+    {
+      "id": "trad-buddhist",
+      "name": "Buddhist Traditions",
+      "slug": "buddhist-traditions",
+      "shortLabel": "Buddhist Customs",
+      "description": "White cotton cloths, unscented or mild sandalwood incense, butter/oil lamps, white floral offerings, and serene memorial portrait stands suitable for Theravada, Mahayana, and Ambedkarite Navayana observances.",
+      "regionalQualificationNote": "Navigation aid only: Observances vary considerably between Navayana Buddhist communities in Maharashtra, Himalayan Vajrayana traditions, and Theravada practices.",
+      "reviewerName": "Bhante Dhammapala & Cultural Review Desk",
+      "reviewerCredentials": "Buddhist Monastic & Lay Custom Advisor",
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "lastReviewedAt": "2026-09-25"
+    },
+    {
+      "id": "trad-regional",
+      "name": "Other Regional & Secular Traditions",
+      "slug": "regional-cultural-traditions",
+      "shortLabel": "Regional & Secular",
+      "description": "Interfaith, secular, Jain, Parsi (where non-restricted), and regional community memorial items including archival registers, teakwood portrait frames, and quiet condolence gifts.",
+      "regionalQualificationNote": "Designed for families seeking secular, interfaith, or region-specific remembrance supplies without religious assumptions.",
+      "reviewerName": "LastCry Cultural Documentation Team",
+      "reviewerCredentials": "Multi-Regional Ethnographic Review Panel",
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "lastReviewedAt": "2026-10-01"
+    }
+  ],
+  "suppliers": [
+    {
+      "id": "sup-kashi-handloom",
+      "name": "Varanasi Handloom & Natural Textiles Co-operative",
+      "code": "SUP-VNS-01",
+      "legalBusinessName": "Kashi Shuddha Vastra Bunkar Sahakari Samiti Ltd.",
+      "gstin": "09AABCK4829L1Z4",
+      "contactPerson": "Raghavendra Mishra",
+      "email": "dispatch@kashihandloom.example.in",
+      "phone": "+91 542 240 8192",
+      "city": "Varanasi / Mumbai Hub",
+      "state": "Uttar Pradesh / Maharashtra",
+      "fulfilmentRegions": [
+        "400",
+        "110",
+        "560",
+        "600",
+        "700",
+        "411",
+        "500",
+        "380",
+        "221"
+      ],
+      "verificationStatus": "VERIFIED_CONTRACT",
+      "dispatchSlaHours": 12,
+      "onTimeRatePercent": 98.4,
+      "operationalNotes": "Sample verified supplier record. Maintains pre-inspected stock at Mumbai and Delhi hubs.",
+      "isSampleData": true
+    },
+    {
+      "id": "sup-deccan-crafts",
+      "name": "Deccan Teak & Archival Paper Studio",
+      "code": "SUP-PNQ-02",
+      "legalBusinessName": "Deccan Archival Crafts Pvt. Ltd.",
+      "gstin": "27AABCD9104F1Z8",
+      "contactPerson": "Meera Kulkarni",
+      "email": "orders@deccanarchival.example.in",
+      "phone": "+91 20 2567 4390",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "fulfilmentRegions": [
+        "400",
+        "110",
+        "560",
+        "600",
+        "700",
+        "411",
+        "500",
+        "380"
+      ],
+      "verificationStatus": "VERIFIED_CONTRACT",
+      "dispatchSlaHours": 24,
+      "onTimeRatePercent": 97.1,
+      "operationalNotes": "Sample verified supplier record. Manufactures FSC-certified teak frames and acid-free linen books.",
+      "isSampleData": true
+    },
+    {
+      "id": "sup-sahydari-botanicals",
+      "name": "Sahyadri Serene Florals & Botanicals",
+      "code": "SUP-BOM-03",
+      "legalBusinessName": "Sahyadri Floral Logistics LLP",
+      "gstin": "27AAFFS3391K1Z2",
+      "contactPerson": "Nikhil Sawant",
+      "email": "fulfilment@sahyadriflorals.example.in",
+      "phone": "+91 22 2619 7720",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "fulfilmentRegions": [
+        "400",
+        "411",
+        "110",
+        "560"
+      ],
+      "verificationStatus": "VERIFIED_CONTRACT",
+      "dispatchSlaHours": 6,
+      "onTimeRatePercent": 96.2,
+      "operationalNotes": "Sample verified supplier record. Perishable floral arrangements restricted to metro hubs.",
+      "isSampleData": true
+    },
+    {
+      "id": "sup-pending-artisan",
+      "name": "Moradabad Heritage Brass Guild (Demo Pending Verification)",
+      "code": "SUP-MBD-04",
+      "legalBusinessName": "Moradabad Metalcraft Artisans",
+      "gstin": "09AAAFM8812P1Z1",
+      "contactPerson": "Farhan Siddiqui",
+      "email": "info@moradabadbrass.example.in",
+      "phone": "+91 591 231 0944",
+      "city": "Moradabad",
+      "state": "Uttar Pradesh",
+      "fulfilmentRegions": [
+        "110"
+      ],
+      "verificationStatus": "PENDING_VERIFICATION",
+      "dispatchSlaHours": 48,
+      "onTimeRatePercent": 0,
+      "operationalNotes": "Sample unverified supplier record demonstrating compliance gate before public listing.",
+      "isSampleData": true
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-kora-shroud",
+      "name": "Unbleached Handspun Kora Cotton Shroud Cloth (5 Metres)",
+      "slug": "unbleached-handspun-kora-cotton-shroud-cloth",
+      "sku": "LC-TXT-001",
+      "shortDescription": "Pure unbleached, undyed 100% cotton cloth woven to traditional 5-metre length, free from synthetic sizing or optical brighteners.",
+      "fullDescription": "Prepared from 100% unbleached Indian cotton, this 5-metre kora cloth is woven without synthetic starches, dyes, or chemical bleaches. Suitable across multiple Indian last-rites customs where natural, unstitched cotton fabric is customary.",
+      "categoryId": "cat-textiles",
+      "categorySlug": "shrouds-customary-textiles",
+      "categoryName": "Shrouds & Customary Textiles",
+      "groupSlug": "essentials",
+      "traditionSlugs": [
+        "hindu-traditions",
+        "sikh-traditions",
+        "buddhist-traditions",
+        "regional-cultural-traditions"
+      ],
+      "images": [
+        {
+          "url": "/assets/products/cotton-shroud.svg",
+          "altText": "Folded unbleached handspun kora cotton cloth tied with natural cotton cord on travertine stone",
+          "isPlaceholder": true
+        }
+      ],
+      "currencyCode": "INR",
+      "sellingPriceInr": 650,
+      "mrpInr": 750,
+      "costPriceInr": 410,
+      "gstPercent": 5,
+      "hsnCode": "520811",
+      "stockQuantity": 42,
+      "reservedQuantity": 2,
+      "lowStockThreshold": 8,
+      "stockStatus": "IN_STOCK",
+      "weightGrams": 580,
+      "dimensionsCm": "500 x 112 cm (Unstitched)",
+      "materials": "100% Unbleached Handloom Cotton (Zero Synthetic Blend)",
+      "specifications": {
+        "Length": "5.0 Metres",
+        "Width": "112 cm (44 inches)",
+        "Finish": "Unbleached, Undyed, Unstitched",
+        "Packaging": "Sealed breathable cotton wrap"
+      },
+      "variants": [
+        {
+          "id": "var-kora-5m",
+          "name": "Standard Single Cloth (5.0 Metres)",
+          "sku": "LC-TXT-001-5M",
+          "sellingPriceInr": 650,
+          "mrpInr": 750,
+          "stockQuantity": 30,
+          "attributes": {
+            "Length": "5.0 Metres"
+          }
+        },
+        {
+          "id": "var-kora-pair",
+          "name": "Paired Set (2 x 5.0 Metres)",
+          "sku": "LC-TXT-001-2X5M",
+          "sellingPriceInr": 1240,
+          "mrpInr": 1500,
+          "stockQuantity": 12,
+          "attributes": {
+            "Length": "2 x 5.0 Metres"
+          }
+        }
+      ],
+      "supplierId": "sup-kashi-handloom",
+      "deliveryEligibility": "ALL_SUPPORTED_ZONES",
+      "estimatedDispatch": "Dispatches within 6–12 hours from nearest regional hub",
+      "returnEligibility": "Returnable within 7 days only if outer hygiene seal is unbroken",
+      "designation": "ESSENTIAL",
+      "traditionNotes": "Reviewed note: Unbleached white or off-white unstitched cotton cloth is widely used in Hindu, Sikh, and Buddhist last rites. Some regional traditions additionally use a coloured outer drape depending on age or marital status—check with family elders if desired.",
+      "complianceVerified": true,
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "reviewedBy": "Dr. Arvind Shastri & Prof. Gurpreet Singh Sandhu",
+      "lastReviewedAt": "2026-09-22",
+      "publicationStatus": "PUBLISHED",
+      "seoTitle": "Unbleached Handspun Kora Cotton Shroud Cloth (5m) | LastCry",
+      "seoDescription": "100% pure unbleached unstitched kora cotton cloth (5 metres) for last-rites preparation. Transparent pricing and verified specifications.",
+      "isSampleData": true,
+      "createdAt": "2026-09-01T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-kafan-set",
+      "name": "Pure White Cotton Kafan Set (3-Piece & 5-Piece Configurations)",
+      "slug": "pure-white-cotton-kafan-set",
+      "sku": "LC-TXT-002",
+      "shortDescription": "Pre-measured, unstitched pure white bafta cotton sheets cut to customary proportions, accompanied by natural camphor and cotton ties.",
+      "fullDescription": "Prepared with soft, opaque pure white cotton bafta fabric free from synthetic sheen. Available in both the 3-piece configuration (Lifafah, Izar, Qamis) and the 5-piece configuration (including Sinaband and Khimar), pre-cut with clean selvedges and accompanied by cotton ties.",
+      "categoryId": "cat-textiles",
+      "categorySlug": "shrouds-customary-textiles",
+      "categoryName": "Shrouds & Customary Textiles",
+      "groupSlug": "essentials",
+      "traditionSlugs": [
+        "muslim-traditions"
+      ],
+      "images": [
+        {
+          "url": "/assets/products/cotton-shroud.svg",
+          "altText": "Pure white unstitched cotton kafan cloth sheets neatly folded",
+          "isPlaceholder": true
+        }
+      ],
+      "currencyCode": "INR",
+      "sellingPriceInr": 1450,
+      "mrpInr": 1650,
+      "costPriceInr": 920,
+      "gstPercent": 5,
+      "hsnCode": "520821",
+      "stockQuantity": 28,
+      "reservedQuantity": 1,
+      "lowStockThreshold": 5,
+      "stockStatus": "IN_STOCK",
+      "weightGrams": 1150,
+      "dimensionsCm": "Lifafah 240x150 cm, Izar 215x150 cm, Qamis 190x150 cm",
+      "materials": "100% Pure White Unstitched Cotton Bafta",
+      "specifications": {
+        "Weave": "High-density breathable cotton bafta",
+        "Stitching": "Strictly unstitched per customary practice",
+        "IncludedTies": "4 Cotton Fabric Ties (Patian)",
+        "ReviewStatus": "Reviewed by community advisory panel"
+      },
+      "variants": [
+        {
+          "id": "var-kafan-3pc",
+          "name": "3-Piece Configuration (Lifafah, Izar, Qamis)",
+          "sku": "LC-TXT-002-3PC",
+          "sellingPriceInr": 1450,
+          "mrpInr": 1650,
+          "stockQuantity": 16,
+          "attributes": {
+            "Configuration": "3-Piece Set"
+          }
+        },
+        {
+          "id": "var-kafan-5pc",
+          "name": "5-Piece Configuration (Includes Sinaband & Head Wrap)",
+          "sku": "LC-TXT-002-5PC",
+          "sellingPriceInr": 1750,
+          "mrpInr": 1990,
+          "stockQuantity": 12,
+          "attributes": {
+            "Configuration": "5-Piece Set"
+          }
+        }
+      ],
+      "supplierId": "sup-kashi-handloom",
+      "deliveryEligibility": "ALL_SUPPORTED_ZONES",
+      "estimatedDispatch": "Dispatches within 6–12 hours",
+      "returnEligibility": "Returnable within 7 days if outer seal is intact",
+      "designation": "ESSENTIAL",
+      "traditionNotes": "Reviewed note: In Islamic practice, simple unstitched white cotton sheets are customary. Both 3-piece and 5-piece sets are clearly labelled with sheet measurements on a discreet paper insert.",
+      "complianceVerified": true,
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "reviewedBy": "Maulana Tariq Nadvi & Community Advisory Panel",
+      "lastReviewedAt": "2026-09-18",
+      "publicationStatus": "PUBLISHED",
+      "seoTitle": "Pure White Unstitched Cotton Kafan Set (3-Piece & 5-Piece) | LastCry",
+      "seoDescription": "Unstitched pure white cotton bafta Kafan cloth sets in 3-piece and 5-piece configurations with clear sheet measurements.",
+      "isSampleData": true,
+      "createdAt": "2026-09-02T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-terracotta-matka",
+      "name": "Unglazed Terracotta Earthenware Vessel & Copper Kalash Pair",
+      "slug": "unglazed-terracotta-earthenware-vessel-copper-kalash",
+      "sku": "LC-ESS-003",
+      "shortDescription": "Hand-turned unglazed natural clay pot (matka) paired with a small pure copper kalash vessel, shock-packed for transit.",
+      "fullDescription": "Many traditional rites require an unglazed clay vessel (kumbha/matka) alongside a copper vessel for water offerings. Each vessel is hand-turned by potter co-operatives from natural river clay without chemical glazes or synthetic paints, and packed in moulded biodegradable pulp cushioning.",
+      "categoryId": "cat-essentials",
+      "categorySlug": "last-rites-essentials",
+      "categoryName": "Last-Rites Essentials",
+      "groupSlug": "essentials",
+      "traditionSlugs": [
+        "hindu-traditions",
+        "regional-cultural-traditions"
+      ],
+      "images": [
+        {
+          "url": "/assets/products/ritual-kit.svg",
+          "altText": "Unglazed terracotta clay pot and small copper kalash vessel on warm stone",
+          "isPlaceholder": true
+        }
+      ],
+      "currencyCode": "INR",
+      "sellingPriceInr": 480,
+      "mrpInr": 550,
+      "costPriceInr": 290,
+      "gstPercent": 5,
+      "hsnCode": "691200",
+      "stockQuantity": 35,
+      "reservedQuantity": 0,
+      "lowStockThreshold": 6,
+      "stockStatus": "IN_STOCK",
+      "weightGrams": 1400,
+      "dimensionsCm": "24 x 24 x 26 cm",
+      "materials": "Natural Unglazed River Terracotta & 99% Pure Copper",
+      "specifications": {
+        "TerracottaCapacity": "2.5 Litres",
+        "CopperKalashCapacity": "450 ml",
+        "Finish": "Raw unglazed terracotta, unlacquered copper",
+        "Packaging": "Double-corrugated shock-resistant honeycomb box"
+      },
+      "variants": [
+        {
+          "id": "var-matka-combo",
+          "name": "Terracotta Vessel + Copper Kalash Pair",
+          "sku": "LC-ESS-003-PAIR",
+          "sellingPriceInr": 480,
+          "mrpInr": 550,
+          "stockQuantity": 25,
+          "attributes": {
+            "Set": "Terracotta + Copper Kalash"
+          }
+        },
+        {
+          "id": "var-matka-only",
+          "name": "Terracotta Earthen Vessel Only",
+          "sku": "LC-ESS-003-CLAY",
+          "sellingPriceInr": 240,
+          "mrpInr": 290,
+          "stockQuantity": 10,
+          "attributes": {
+            "Set": "Terracotta Vessel Only"
+          }
+        }
+      ],
+      "supplierId": "sup-kashi-handloom",
+      "deliveryEligibility": "ALL_SUPPORTED_ZONES",
+      "estimatedDispatch": "Dispatches within 12 hours",
+      "returnEligibility": "Full replacement or refund if damaged in transit; 7-day unused returns",
+      "designation": "REGION_DEPENDENT",
+      "traditionNotes": "Reviewed note: Used during Antyeshti and asthi-sanchayana (collection of remains) in many Hindu communities; specific vessel shapes or hole-piercing customs vary by region.",
+      "complianceVerified": true,
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "reviewedBy": "Dr. Arvind Shastri",
+      "lastReviewedAt": "2026-09-15",
+      "publicationStatus": "PUBLISHED",
+      "seoTitle": "Unglazed Terracotta Earthenware Vessel & Copper Kalash | LastCry",
+      "seoDescription": "Natural unglazed terracotta clay pot and pure copper kalash vessel packed safely for last-rites and prayer observances.",
+      "isSampleData": true,
+      "createdAt": "2026-09-03T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-sandalwood-samagri",
+      "name": "Pure Mysore Sandalwood Billet, Bhimseni Camphor & Sesame Pack",
+      "slug": "pure-sandalwood-billet-bhimseni-camphor-sesame-pack",
+      "sku": "LC-RIT-004",
+      "shortDescription": "Verified natural sandalwood pieces (chandan), pure crystalline Bhimseni camphor, black sesame (kala til), and sacred kush grass.",
+      "fullDescription": "A carefully portioned botanical pack containing legally sourced Indian sandalwood billets (100g), pure crystalline Bhimseni camphor (50g), cleaned black sesame seeds (100g), barley (jau, 100g), and dried kush grass (darbha). Every ingredient is labelled clearly in English and Hindi.",
+      "categoryId": "cat-ritual-supplies",
+      "categorySlug": "tradition-specific-ritual-supplies",
+      "categoryName": "Tradition-Specific Ritual Supplies",
+      "groupSlug": "essentials",
+      "traditionSlugs": [
+        "hindu-traditions",
+        "buddhist-traditions"
+      ],
+      "images": [
+        {
+          "url": "/assets/products/brass-accessories.svg",
+          "altText": "Sandalwood blocks, natural camphor, and traditional botanical supplies",
+          "isPlaceholder": true
+        }
+      ],
+      "currencyCode": "INR",
+      "sellingPriceInr": 790,
+      "mrpInr": 890,
+      "costPriceInr": 510,
+      "gstPercent": 5,
+      "hsnCode": "121190",
+      "stockQuantity": 50,
+      "reservedQuantity": 3,
+      "lowStockThreshold": 10,
+      "stockStatus": "IN_STOCK",
+      "weightGrams": 420,
+      "dimensionsCm": "20 x 15 x 6 cm",
+      "materials": "Natural Santalum album billets, Cinnamomum camphora, Sesamum indicum, Desmostachya bipinnata",
+      "specifications": {
+        "SandalwoodWeight": "100g (Verified non-restricted domestic billet)",
+        "CamphorWeight": "50g Isoborneol-free Bhimseni Camphor",
+        "GrainsIncluded": "Black Sesame (100g) & Barley (100g)",
+        "Labelling": "Individual moisture-sealed paper pouches"
+      },
+      "variants": [
+        {
+          "id": "var-samagri-std",
+          "name": "Standard Pack (420g Total)",
+          "sku": "LC-RIT-004-STD",
+          "sellingPriceInr": 790,
+          "mrpInr": 890,
+          "stockQuantity": 50,
+          "attributes": {
+            "Size": "Standard (420g)"
+          }
+        }
+      ],
+      "supplierId": "sup-kashi-handloom",
+      "deliveryEligibility": "ALL_SUPPORTED_ZONES",
+      "estimatedDispatch": "Dispatches within 12 hours",
+      "returnEligibility": "Returnable within 7 days if inner pouches are unopened",
+      "designation": "OPTIONAL",
+      "traditionNotes": "Reviewed note: Black sesame and kush grass are commonly used in tarpan and shraddha rites; sandalwood pieces are optional offerings and not mandatory.",
+      "complianceVerified": true,
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "reviewedBy": "Dr. Arvind Shastri",
+      "lastReviewedAt": "2026-09-15",
+      "publicationStatus": "PUBLISHED",
+      "seoTitle": "Sandalwood Billet, Bhimseni Camphor & Sesame Ritual Pack | LastCry",
+      "seoDescription": "Individually labelled natural sandalwood, Bhimseni camphor, black sesame, and kush grass pack for traditional observances.",
+      "isSampleData": true,
+      "createdAt": "2026-09-04T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-sidr-rosewater-set",
+      "name": "Sidr (Beri Leaf) Powder, Camphor & Kannauj Rosewater Ghusl Pack",
+      "slug": "sidr-leaf-powder-camphor-kannauj-rosewater-ghusl-pack",
+      "sku": "LC-RIT-005",
+      "shortDescription": "Sun-dried, finely sifted Ziziphus jujuba (Sidr/Beri) leaf powder, natural camphor crystals, cotton gloves, and steam-distilled rosewater.",
+      "fullDescription": "Assembled to assist families with the traditional Ghusl preparation. Includes 150g of pure sifted Sidr (Beri) leaf powder, 50g of crushed natural camphor (Kafoor) for the final rinse, 200ml of alcohol-free steam-distilled Kannauj rosewater (Arq-e-Gulab), and 2 pairs of soft cotton wash mitts.",
+      "categoryId": "cat-ritual-supplies",
+      "categorySlug": "tradition-specific-ritual-supplies",
+      "categoryName": "Tradition-Specific Ritual Supplies",
+      "groupSlug": "essentials",
+      "traditionSlugs": [
+        "muslim-traditions"
+      ],
+      "images": [
+        {
+          "url": "/assets/products/ritual-kit.svg",
+          "altText": "Botanical sidr leaf powder, rosewater bottle, and cotton mitts on neutral stone",
+          "isPlaceholder": true
+        }
+      ],
+      "currencyCode": "INR",
+      "sellingPriceInr": 560,
+      "mrpInr": 650,
+      "costPriceInr": 340,
+      "gstPercent": 5,
+      "hsnCode": "330190",
+      "stockQuantity": 32,
+      "reservedQuantity": 0,
+      "lowStockThreshold": 6,
+      "stockStatus": "IN_STOCK",
+      "weightGrams": 520,
+      "dimensionsCm": "22 x 16 x 8 cm",
+      "materials": "Pure Ziziphus jujuba leaf, Cinnamomum camphora, Rosa damascena hydrosol, 100% cotton mitts",
+      "specifications": {
+        "SidrPowder": "150g (Chemical-free sun-dried Beri leaf)",
+        "Rosewater": "200ml Steam-distilled (0% Alcohol)",
+        "Camphor": "50g Natural Kafoor",
+        "Accessories": "2 Pairs Unbleached Cotton Wash Mitts"
+      },
+      "variants": [
+        {
+          "id": "var-ghusl-std",
+          "name": "Complete Ghusl Preparation Pack",
+          "sku": "LC-RIT-005-STD",
+          "sellingPriceInr": 560,
+          "mrpInr": 650,
+          "stockQuantity": 32,
+          "attributes": {
+            "Pack": "Standard Pack"
+          }
+        }
+      ],
+      "supplierId": "sup-kashi-handloom",
+      "deliveryEligibility": "ALL_SUPPORTED_ZONES",
+      "estimatedDispatch": "Dispatches within 6–12 hours",
+      "returnEligibility": "Returnable within 7 days if tamper seal is unbroken",
+      "designation": "ESSENTIAL",
+      "traditionNotes": "Reviewed note: Clean water is the primary requirement for Ghusl; Sidr (Beri) leaf and camphor in the final wash are sunnah practices observed across communities.",
+      "complianceVerified": true,
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "reviewedBy": "Maulana Tariq Nadvi",
+      "lastReviewedAt": "2026-09-18",
+      "publicationStatus": "PUBLISHED",
+      "seoTitle": "Sidr (Beri Leaf) Powder, Camphor & Rosewater Ghusl Pack | LastCry",
+      "seoDescription": "Pure sifted Sidr leaf powder, natural camphor, alcohol-free Kannauj rosewater, and cotton wash mitts.",
+      "isSampleData": true,
+      "createdAt": "2026-09-05T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-teak-memorial-frame",
+      "name": "Handcrafted Solid Teakwood & Brass Inlay Memorial Portrait Frame",
+      "slug": "handcrafted-solid-teakwood-brass-memorial-portrait-frame",
+      "sku": "LC-MEM-006",
+      "shortDescription": "Seasoned Indian teakwood portrait frame with subtle matte brass corner splines, museum-grade anti-reflective acrylic, and acid-free mount.",
+      "fullDescription": "Crafted in Pune from responsibly sourced seasoned CP teakwood with understated matte brass corner splines. Designed with a deep rabbet, archival acid-free off-white mat board, and sturdy dual easel/wall-mount hardware suitable for prayer halls, Chautha/Uthamna gatherings, or home remembrance tables.",
+      "categoryId": "cat-frames",
+      "categorySlug": "memorial-frames-photographs",
+      "categoryName": "Memorial Frames & Printed Photographs",
+      "groupSlug": "memorials",
+      "traditionSlugs": [
+        "hindu-traditions",
+        "christian-traditions",
+        "sikh-traditions",
+        "buddhist-traditions",
+        "regional-cultural-traditions"
+      ],
+      "images": [
+        {
+          "url": "/assets/products/memorial-frame.svg",
+          "altText": "Handcrafted solid Indian teakwood portrait frame with matte brass corner splines",
+          "isPlaceholder": true
+        }
+      ],
+      "currencyCode": "INR",
+      "sellingPriceInr": 1850,
+      "mrpInr": 2200,
+      "costPriceInr": 1120,
+      "gstPercent": 12,
+      "hsnCode": "441400",
+      "stockQuantity": 24,
+      "reservedQuantity": 1,
+      "lowStockThreshold": 5,
+      "stockStatus": "IN_STOCK",
+      "weightGrams": 950,
+      "dimensionsCm": "35 x 28 x 3 cm (Fits 10x12 inch or 8x10 inch matted portrait)",
+      "materials": "Seasoned Indian Teakwood, Matte Brass Splines, Acid-Free Archival Mat Board",
+      "specifications": {
+        "OuterDimensions": "35 cm x 28 cm",
+        "PhotoOpeningWithMat": "8 x 10 inches (20 x 25 cm)",
+        "PhotoOpeningWithoutMat": "10 x 12 inches (25 x 30 cm)",
+        "StandType": "Reinforced solid teak table easel + brass wall D-rings"
+      },
+      "variants": [
+        {
+          "id": "var-frame-8x10",
+          "name": "Medium Portrait (8x10 in Matted / 10x12 in Full)",
+          "sku": "LC-MEM-006-MED",
+          "sellingPriceInr": 1850,
+          "mrpInr": 2200,
+          "stockQuantity": 16,
+          "attributes": {
+            "Size": "Medium (8x10\" Matted)"
+          }
+        },
+        {
+          "id": "var-frame-12x15",
+          "name": "Large Prayer Hall Portrait (12x15 in Matted)",
+          "sku": "LC-MEM-006-LRG",
+          "sellingPriceInr": 2450,
+          "mrpInr": 2900,
+          "stockQuantity": 8,
+          "attributes": {
+            "Size": "Large (12x15\" Matted)"
+          }
+        }
+      ],
+      "supplierId": "sup-deccan-crafts",
+      "deliveryEligibility": "ALL_SUPPORTED_ZONES",
+      "estimatedDispatch": "Dispatches within 12–24 hours",
+      "returnEligibility": "Returnable within 7 days in original protective packaging",
+      "designation": "OPTIONAL",
+      "traditionNotes": "Reviewed note: Suitable for prayer meetings, memorial services, and home display. Includes subtle brass pegs along the bottom edge if families wish to rest a light floral garland without obscuring the photograph.",
+      "complianceVerified": true,
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "reviewedBy": "LastCry Cultural Documentation Team",
+      "lastReviewedAt": "2026-10-01",
+      "publicationStatus": "PUBLISHED",
+      "seoTitle": "Solid Teakwood & Brass Memorial Portrait Frame | LastCry",
+      "seoDescription": "Handcrafted Indian teakwood memorial photograph frame with archival mat board and subtle garland support pegs.",
+      "isSampleData": true,
+      "createdAt": "2026-09-06T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-remembrance-book",
+      "name": "Archival Linen-Bound Condolence & Remembrance Register",
+      "slug": "archival-linen-bound-condolence-remembrance-register",
+      "sku": "LC-MEM-007",
+      "shortDescription": "Smyth-sewn flat-lay condolence register bound in muted sage bookcloth with 120 pages of 120gsm fountain-pen-friendly archival cotton paper.",
+      "fullDescription": "Designed for prayer meetings, memorial services, and home visits so guests and extended family can record shared memories and messages of comfort. Features Smyth-sewn binding that lies completely flat on a table, unruled and lightly guided pages, and a discreet ribbon marker.",
+      "categoryId": "cat-books",
+      "categorySlug": "remembrance-books-keepsakes",
+      "categoryName": "Remembrance Books & Keepsakes",
+      "groupSlug": "memorials",
+      "traditionSlugs": [
+        "hindu-traditions",
+        "muslim-traditions",
+        "christian-traditions",
+        "sikh-traditions",
+        "buddhist-traditions",
+        "regional-cultural-traditions"
+      ],
+      "images": [
+        {
+          "url": "/assets/products/remembrance-book.svg",
+          "altText": "Open linen-bound archival remembrance register on a warm stone surface",
+          "isPlaceholder": true
+        }
+      ],
+      "currencyCode": "INR",
+      "sellingPriceInr": 1290,
+      "mrpInr": 1490,
+      "costPriceInr": 760,
+      "gstPercent": 12,
+      "hsnCode": "482010",
+      "stockQuantity": 38,
+      "reservedQuantity": 0,
+      "lowStockThreshold": 6,
+      "stockStatus": "IN_STOCK",
+      "weightGrams": 680,
+      "dimensionsCm": "28 x 22 x 2.2 cm (Landscape Format)",
+      "materials": "100% Woven Linen Bookcloth, 120gsm Acid-Free Archival Paper",
+      "specifications": {
+        "PageCount": "120 Pages (60 Sheets)",
+        "PaperWeight": "120 gsm Acid-Free Ivory Cotton Blend",
+        "Binding": "Smyth-sewn flat-lay hardcover in protective slipcase",
+        "CoverText": "Blind-debossed border (No religious symbol or loud text)"
+      },
+      "variants": [
+        {
+          "id": "var-book-sage",
+          "name": "Muted Sage Linen Binding",
+          "sku": "LC-MEM-007-SAGE",
+          "sellingPriceInr": 1290,
+          "mrpInr": 1490,
+          "stockQuantity": 22,
+          "attributes": {
+            "Colour": "Muted Sage"
+          }
+        },
+        {
+          "id": "var-book-oat",
+          "name": "Warm Oat Linen Binding",
+          "sku": "LC-MEM-007-OAT",
+          "sellingPriceInr": 1290,
+          "mrpInr": 1490,
+          "stockQuantity": 16,
+          "attributes": {
+            "Colour": "Warm Oat"
+          }
+        }
+      ],
+      "supplierId": "sup-deccan-crafts",
+      "deliveryEligibility": "ALL_SUPPORTED_ZONES",
+      "estimatedDispatch": "Dispatches within 12–24 hours",
+      "returnEligibility": "Returnable within 7 days if uninscribed and shrink-wrap intact",
+      "designation": "OPTIONAL",
+      "traditionNotes": "Reviewed note: Free from religious emblems so it may be used respectfully in any community or secular memorial gathering.",
+      "complianceVerified": true,
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "reviewedBy": "LastCry Cultural Documentation Team",
+      "lastReviewedAt": "2026-10-01",
+      "publicationStatus": "PUBLISHED",
+      "seoTitle": "Archival Linen Condolence & Remembrance Register | LastCry",
+      "seoDescription": "Flat-lay Smyth-sewn condolence register with 120gsm acid-free paper for prayer meetings and memorial services.",
+      "isSampleData": true,
+      "createdAt": "2026-09-07T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-white-floral-tribute",
+      "name": "Serene White Chrysanthemum, Mogra & Eucalyptus Tribute Garland",
+      "slug": "serene-white-chrysanthemum-mogra-eucalyptus-tribute",
+      "sku": "LC-FLW-008",
+      "shortDescription": "Hand-tied fresh white chrysanthemums, fragrant mogra jasmine, and silver-dollar eucalyptus threaded with unbleached cotton cord.",
+      "fullDescription": "Prepared fresh to order in supported metropolitan hubs using white chrysanthemums, unbleached cotton thread (free from plastic tinsel or synthetic ribbons), and muted eucalyptus foliage. Suitable either as a respectful portrait garland or as a table floral tribute.",
+      "categoryId": "cat-flowers",
+      "categorySlug": "funeral-memorial-flowers",
+      "categoryName": "Funeral & Memorial Flowers",
+      "groupSlug": "condolence-gifts",
+      "traditionSlugs": [
+        "hindu-traditions",
+        "christian-traditions",
+        "sikh-traditions",
+        "buddhist-traditions",
+        "regional-cultural-traditions"
+      ],
+      "images": [
+        {
+          "url": "/assets/products/floral-tribute.svg",
+          "altText": "White chrysanthemum and jasmine floral tribute wrapped in unbleached linen paper",
+          "isPlaceholder": true
+        }
+      ],
+      "currencyCode": "INR",
+      "sellingPriceInr": 1150,
+      "mrpInr": 1350,
+      "costPriceInr": 720,
+      "gstPercent": 0,
+      "hsnCode": "060319",
+      "stockQuantity": 15,
+      "reservedQuantity": 1,
+      "lowStockThreshold": 4,
+      "stockStatus": "IN_STOCK",
+      "weightGrams": 650,
+      "dimensionsCm": "65 cm Length (Portrait Garland) or 45 cm Tied Sheaf",
+      "materials": "Fresh White Chrysanthemums, Mogra Jasmine, Eucalyptus, Unbleached Cotton Thread",
+      "specifications": {
+        "PlasticFree": "100% biodegradable natural fibre threading",
+        "PerishableNotice": "Available only in Mumbai (400), Pune (411), Delhi NCR (110), and Bengaluru (560)",
+        "CardIncluded": "Blank cotton-paper sympathy card included"
+      },
+      "variants": [
+        {
+          "id": "var-floral-sheaf",
+          "name": "Hand-Tied Table Tribute Sheaf",
+          "sku": "LC-FLW-008-SHEAF",
+          "sellingPriceInr": 1150,
+          "mrpInr": 1350,
+          "stockQuantity": 9,
+          "attributes": {
+            "Style": "Table Tribute Sheaf"
+          }
+        },
+        {
+          "id": "var-floral-garland",
+          "name": "Memorial Portrait Garland (65 cm)",
+          "sku": "LC-FLW-008-GARLAND",
+          "sellingPriceInr": 1150,
+          "mrpInr": 1350,
+          "stockQuantity": 6,
+          "attributes": {
+            "Style": "Portrait Garland (65 cm)"
+          }
+        }
+      ],
+      "supplierId": "sup-sahydari-botanicals",
+      "deliveryEligibility": "METRO_HUBS_ONLY",
+      "restrictedPinPrefixes": [
+        "400",
+        "411",
+        "110",
+        "560"
+      ],
+      "estimatedDispatch": "Prepared fresh; delivered within 6–12 hours in supported metro PIN codes",
+      "returnEligibility": "Non-returnable perishable item; full refund if delivered damaged or past agreed window",
+      "designation": "OPTIONAL",
+      "traditionNotes": "Reviewed note: White flowers are widely appropriate for condolence visits and prayer meetings across India. Note that in many Muslim households, bringing floral garlands to the home is not customary—consider a quiet condolence card or household care parcel instead.",
+      "complianceVerified": true,
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "reviewedBy": "LastCry Cultural Documentation Team",
+      "lastReviewedAt": "2026-10-01",
+      "publicationStatus": "PUBLISHED",
+      "seoTitle": "White Chrysanthemum & Mogra Memorial Floral Tribute | LastCry",
+      "seoDescription": "Plastic-free white chrysanthemum and jasmine condolence floral tribute delivered in supported metro cities.",
+      "isSampleData": true,
+      "createdAt": "2026-09-08T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-condolence-care-box",
+      "name": "Quiet Comfort Household Care Parcel & Letterpress Sympathy Card",
+      "slug": "quiet-comfort-household-care-parcel-sympathy-card",
+      "sku": "LC-CND-009",
+      "shortDescription": "An understated support parcel for a grieving household: whole-leaf chamomile & tulsi infusions, roasted makhana, unbleached tissues, and a cotton-paper sympathy card.",
+      "fullDescription": "When visiting from afar or sending support to a family in mourning, overtly celebratory hampers are inappropriate. This restrained household care parcel provides gentle, practical nourishment for family members and visitors sitting together: Caffeine-free Himalayan Chamomile & Tulsi herbal infusion (100g), lightly salted roasted Bihar makhana (150g), raw multiflora honey (250g), two boxes of unbleached bamboo facial tissues, and a letterpress sympathy card.",
+      "categoryId": "cat-condolence",
+      "categorySlug": "condolence-cards-gifts",
+      "categoryName": "Condolence Cards & Gifts",
+      "groupSlug": "condolence-gifts",
+      "traditionSlugs": [
+        "hindu-traditions",
+        "muslim-traditions",
+        "christian-traditions",
+        "sikh-traditions",
+        "buddhist-traditions",
+        "regional-cultural-traditions"
+      ],
+      "images": [
+        {
+          "url": "/assets/products/floral-tribute.svg",
+          "altText": "Understated linen-wrapped condolence care parcel and letterpress sympathy card",
+          "isPlaceholder": true
+        }
+      ],
+      "currencyCode": "INR",
+      "sellingPriceInr": 1590,
+      "mrpInr": 1800,
+      "costPriceInr": 980,
+      "gstPercent": 12,
+      "hsnCode": "210690",
+      "stockQuantity": 29,
+      "reservedQuantity": 0,
+      "lowStockThreshold": 5,
+      "stockStatus": "IN_STOCK",
+      "weightGrams": 1100,
+      "dimensionsCm": "28 x 24 x 11 cm",
+      "materials": "100% Vegetarian, FSSAI-compliant pantry essentials in unprinted kraft linen box",
+      "specifications": {
+        "DietaryCompliance": "100% Pure Vegetarian, Eggless, Onion/Garlic-Free (Sattvik & Halal friendly)",
+        "Packaging": "Quiet matte oat linen box without promotional logos",
+        "CardIncluded": "300gsm Cotton Letterpress Card (Blank or custom printed message)"
+      },
+      "variants": [
+        {
+          "id": "var-care-std",
+          "name": "Standard Household Care Parcel",
+          "sku": "LC-CND-009-STD",
+          "sellingPriceInr": 1590,
+          "mrpInr": 1800,
+          "stockQuantity": 29,
+          "attributes": {
+            "Size": "Standard Parcel"
+          }
+        }
+      ],
+      "supplierId": "sup-deccan-crafts",
+      "deliveryEligibility": "ALL_SUPPORTED_ZONES",
+      "estimatedDispatch": "Dispatches within 12–24 hours across all supported PIN codes",
+      "returnEligibility": "Returnable within 7 days if outer parcel seal is intact",
+      "designation": "OPTIONAL",
+      "traditionNotes": "Reviewed note: Specifically formulated without onion, garlic, alcohol, or celebratory confectionery so it remains respectful in homes observing mourning dietary simplicity.",
+      "complianceVerified": true,
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "reviewedBy": "LastCry Cultural Documentation Team",
+      "lastReviewedAt": "2026-10-01",
+      "publicationStatus": "PUBLISHED",
+      "seoTitle": "Quiet Comfort Condolence Care Parcel & Sympathy Card | LastCry",
+      "seoDescription": "Send a thoughtful, understated condolence care parcel with herbal infusions, sattvik nourishment, and a letterpress card.",
+      "isSampleData": true,
+      "createdAt": "2026-09-09T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-brass-akhand-diya",
+      "name": "Heavy Matte Brass Akhand Jyoti Oil Lamp with Borosilicate Glass Chimney",
+      "slug": "heavy-matte-brass-akhand-jyoti-oil-lamp",
+      "sku": "LC-ACC-010",
+      "shortDescription": "Solid sand-cast matte brass oil lamp with a heat-resistant borosilicate glass wind guard and 50 hand-rolled pure cotton wicks.",
+      "fullDescription": "Designed for steady, safe illumination during multi-day prayer vigils or remembrance days. The weighted solid brass base prevents accidental tipping, while the borosilicate glass chimney shields the flame from drafts under ceiling fans.",
+      "categoryId": "cat-accessories",
+      "categorySlug": "non-regulated-accessories",
+      "categoryName": "Relevant Non-Regulated Accessories",
+      "groupSlug": "essentials",
+      "traditionSlugs": [
+        "hindu-traditions",
+        "sikh-traditions",
+        "buddhist-traditions",
+        "regional-cultural-traditions"
+      ],
+      "images": [
+        {
+          "url": "/assets/products/brass-accessories.svg",
+          "altText": "Solid matte brass oil lamp with borosilicate glass cover",
+          "isPlaceholder": true
+        }
+      ],
+      "currencyCode": "INR",
+      "sellingPriceInr": 920,
+      "mrpInr": 1100,
+      "costPriceInr": 540,
+      "gstPercent": 12,
+      "hsnCode": "741810",
+      "stockQuantity": 4,
+      "reservedQuantity": 0,
+      "lowStockThreshold": 5,
+      "stockStatus": "LOW_STOCK",
+      "weightGrams": 720,
+      "dimensionsCm": "13 x 13 x 19 cm",
+      "materials": "Solid Unlacquered Brass, Borosilicate Glass, 100% Cotton Wicks",
+      "specifications": {
+        "OilCapacity": "180 ml (Approx. 18–22 hours burn per fill)",
+        "GlassShield": "Removable heat-resistant borosilicate cylinder",
+        "WicksIncluded": "50 Unbleached Cotton Wicks (Batti)"
+      },
+      "variants": [
+        {
+          "id": "var-diya-std",
+          "name": "Standard Matte Brass Lamp + 50 Wicks",
+          "sku": "LC-ACC-010-STD",
+          "sellingPriceInr": 920,
+          "mrpInr": 1100,
+          "stockQuantity": 4,
+          "attributes": {
+            "Finish": "Matte Brushed Brass"
+          }
+        }
+      ],
+      "supplierId": "sup-deccan-crafts",
+      "deliveryEligibility": "ALL_SUPPORTED_ZONES",
+      "estimatedDispatch": "Dispatches within 12–24 hours",
+      "returnEligibility": "Returnable within 7 days if unused",
+      "designation": "OPTIONAL",
+      "traditionNotes": "Reviewed note: Often kept lit near a portrait or kalash during the initial days of mourning; always place on a stone or metal tray away from curtains.",
+      "complianceVerified": true,
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "reviewedBy": "Dr. Arvind Shastri",
+      "lastReviewedAt": "2026-09-15",
+      "publicationStatus": "PUBLISHED",
+      "seoTitle": "Matte Brass Akhand Jyoti Oil Lamp with Glass Cover | LastCry",
+      "seoDescription": "Weighted solid brass Akhand Jyoti diya with borosilicate glass wind shield and 50 pure cotton wicks.",
+      "isSampleData": true,
+      "createdAt": "2026-09-10T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-beeswax-vigil-candles",
+      "name": "Unscented Pure Beeswax Vigil Candles & White Linen Cloth Set",
+      "slug": "unscented-pure-beeswax-vigil-candles-white-linen-set",
+      "sku": "LC-RIT-011",
+      "shortDescription": "Set of 4 slow-burning unscented natural beeswax pillar candles with brass drip trays and a hemstitched white linen table runner.",
+      "fullDescription": "Prepared for Christian wakes, home prayer vigils, and quiet memorial tables. These unscented 100% natural beeswax candles burn cleanly without paraffin soot or artificial fragrance, paired with two matte brass saucer bases and a pure white linen table cloth.",
+      "categoryId": "cat-ritual-supplies",
+      "categorySlug": "tradition-specific-ritual-supplies",
+      "categoryName": "Tradition-Specific Ritual Supplies",
+      "groupSlug": "essentials",
+      "traditionSlugs": [
+        "christian-traditions",
+        "buddhist-traditions",
+        "regional-cultural-traditions"
+      ],
+      "images": [
+        {
+          "url": "/assets/products/brass-accessories.svg",
+          "altText": "Natural beeswax vigil candles with brass drip trays and folded white linen",
+          "isPlaceholder": true
+        }
+      ],
+      "currencyCode": "INR",
+      "sellingPriceInr": 1180,
+      "mrpInr": 1350,
+      "costPriceInr": 710,
+      "gstPercent": 12,
+      "hsnCode": "340600",
+      "stockQuantity": 21,
+      "reservedQuantity": 0,
+      "lowStockThreshold": 5,
+      "stockStatus": "IN_STOCK",
+      "weightGrams": 840,
+      "dimensionsCm": "26 x 18 x 9 cm",
+      "materials": "100% Natural Filtered Beeswax, Braided Cotton Wick, Pure Linen Cloth",
+      "specifications": {
+        "CandlesIncluded": "4 Pillar Candles (15 cm height x 5 cm diameter)",
+        "BurnTime": "Approx. 28 hours per candle",
+        "LinenRunner": "90 cm x 45 cm Pure White Hemstitched Linen"
+      },
+      "variants": [
+        {
+          "id": "var-vigil-set",
+          "name": "4 Beeswax Candles + 2 Brass Trays + White Linen",
+          "sku": "LC-RIT-011-SET",
+          "sellingPriceInr": 1180,
+          "mrpInr": 1350,
+          "stockQuantity": 21,
+          "attributes": {
+            "Set": "Complete Vigil Set"
+          }
+        }
+      ],
+      "supplierId": "sup-deccan-crafts",
+      "deliveryEligibility": "ALL_SUPPORTED_ZONES",
+      "estimatedDispatch": "Dispatches within 12–24 hours",
+      "returnEligibility": "Returnable within 7 days if unlit and sealed",
+      "designation": "ESSENTIAL",
+      "traditionNotes": "Reviewed note: Suitable for home prayer tables and wake vigils across Catholic, Protestant, and Orthodox traditions, as well as secular memorial tables.",
+      "complianceVerified": true,
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "reviewedBy": "Rev. Thomas Kurien",
+      "lastReviewedAt": "2026-09-20",
+      "publicationStatus": "PUBLISHED",
+      "seoTitle": "Pure Beeswax Vigil Candles & White Linen Set | LastCry",
+      "seoDescription": "Unscented slow-burning beeswax vigil candles with brass trays and a white linen cloth for home prayer and memorial services.",
+      "isSampleData": true,
+      "createdAt": "2026-09-11T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-white-khadi-dari",
+      "name": "Handwoven White Khadi Cotton Prayer Seating Mat (Baithak Dari)",
+      "slug": "handwoven-white-khadi-cotton-prayer-seating-mat",
+      "sku": "LC-ACC-012",
+      "shortDescription": "Large washable off-white handwoven cotton floor dari (180 x 270 cm) for family prayer gatherings, Chautha, Path, or condolence visits.",
+      "fullDescription": "When accommodating visitors at home for prayer or condolence visits, clean white floor seating is traditionally laid out. This heavy-gauge handwoven cotton dari lays flat without curling at the corners and folds compactly into its cotton storage bag after use.",
+      "categoryId": "cat-accessories",
+      "categorySlug": "non-regulated-accessories",
+      "categoryName": "Relevant Non-Regulated Accessories",
+      "groupSlug": "essentials",
+      "traditionSlugs": [
+        "hindu-traditions",
+        "muslim-traditions",
+        "sikh-traditions",
+        "buddhist-traditions",
+        "regional-cultural-traditions"
+      ],
+      "images": [
+        {
+          "url": "/assets/products/cotton-shroud.svg",
+          "altText": "Folded heavy white handwoven cotton floor dari mat",
+          "isPlaceholder": true
+        }
+      ],
+      "currencyCode": "INR",
+      "sellingPriceInr": 1650,
+      "mrpInr": 1950,
+      "costPriceInr": 1050,
+      "gstPercent": 5,
+      "hsnCode": "570249",
+      "stockQuantity": 19,
+      "reservedQuantity": 0,
+      "lowStockThreshold": 4,
+      "stockStatus": "IN_STOCK",
+      "weightGrams": 2200,
+      "dimensionsCm": "270 x 180 cm (9 ft x 6 ft)",
+      "materials": "100% Heavy-Count Unbleached & Washed Cotton Yarn",
+      "specifications": {
+        "Dimensions": "9 ft x 6 ft (Accommodates 8–10 seated guests)",
+        "Care": "Machine or hand washable cold",
+        "StorageBag": "Includes drawstring cotton bag"
+      },
+      "variants": [
+        {
+          "id": "var-dari-9x6",
+          "name": "Single Dari (9 ft x 6 ft)",
+          "sku": "LC-ACC-012-1X",
+          "sellingPriceInr": 1650,
+          "mrpInr": 1950,
+          "stockQuantity": 14,
+          "attributes": {
+            "Quantity": "Single (9x6 ft)"
+          }
+        },
+        {
+          "id": "var-dari-pair",
+          "name": "Pair of 2 Daris (Covers 18 x 6 ft Hall)",
+          "sku": "LC-ACC-012-2X",
+          "sellingPriceInr": 3150,
+          "mrpInr": 3900,
+          "stockQuantity": 5,
+          "attributes": {
+            "Quantity": "Pair of 2 (9x6 ft each)"
+          }
+        }
+      ],
+      "supplierId": "sup-kashi-handloom",
+      "deliveryEligibility": "ALL_SUPPORTED_ZONES",
+      "estimatedDispatch": "Dispatches within 12–24 hours",
+      "returnEligibility": "Returnable within 7 days if unused and unfolded",
+      "designation": "OPTIONAL",
+      "traditionNotes": "Reviewed note: Practical for home prayer gatherings (Besna, Chautha, Fateha, Path, or condolence visits).",
+      "complianceVerified": true,
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "reviewedBy": "LastCry Cultural Documentation Team",
+      "lastReviewedAt": "2026-10-01",
+      "publicationStatus": "PUBLISHED",
+      "seoTitle": "Handwoven White Cotton Prayer Seating Mat (9x6 ft Dari) | LastCry",
+      "seoDescription": "Heavy-gauge white handwoven cotton floor dari (9x6 ft) for home prayer gatherings and condolence visits.",
+      "isSampleData": true,
+      "createdAt": "2026-09-12T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "prod-draft-unreviewed",
+      "name": "Regional Panchagavya & Copper Tarpan Spoon Set (Draft Pending Review)",
+      "slug": "regional-copper-tarpan-spoon-set-draft",
+      "sku": "LC-RIT-099-DRAFT",
+      "shortDescription": "Unpublished draft product awaiting cultural contributor verification before public release.",
+      "fullDescription": "This record exists in the database with PENDING_CULTURAL_REVIEW and DRAFT status to verify that unreviewed items never appear in the public catalogue while remaining manageable in the Admin Dashboard.",
+      "categoryId": "cat-ritual-supplies",
+      "categorySlug": "tradition-specific-ritual-supplies",
+      "categoryName": "Tradition-Specific Ritual Supplies",
+      "groupSlug": "essentials",
+      "traditionSlugs": [
+        "hindu-traditions"
+      ],
+      "images": [
+        {
+          "url": "/assets/products/brass-accessories.svg",
+          "altText": "Copper tarpan spoon set draft placeholder",
+          "isPlaceholder": true
+        }
+      ],
+      "currencyCode": "INR",
+      "sellingPriceInr": 420,
+      "mrpInr": 490,
+      "costPriceInr": 250,
+      "gstPercent": 12,
+      "hsnCode": "741810",
+      "stockQuantity": 10,
+      "reservedQuantity": 0,
+      "lowStockThreshold": 3,
+      "stockStatus": "IN_STOCK",
+      "weightGrams": 280,
+      "dimensionsCm": "18 x 8 x 4 cm",
+      "materials": "Pure Copper",
+      "specifications": {
+        "Status": "Awaiting regional scholar sign-off"
+      },
+      "variants": [],
+      "supplierId": "sup-kashi-handloom",
+      "deliveryEligibility": "ALL_SUPPORTED_ZONES",
+      "estimatedDispatch": "Dispatches within 24 hours",
+      "returnEligibility": "7-day unused returns",
+      "designation": "REGION_DEPENDENT",
+      "traditionNotes": "Draft note pending verification.",
+      "complianceVerified": true,
+      "reviewStatus": "PENDING_CULTURAL_REVIEW",
+      "reviewedBy": "Pending Review",
+      "lastReviewedAt": "2026-10-10",
+      "publicationStatus": "DRAFT",
+      "seoTitle": "Draft Product",
+      "seoDescription": "Draft Product",
+      "isSampleData": true,
+      "createdAt": "2026-10-10T10:00:00Z",
+      "updatedAt": "2026-10-10T10:00:00Z"
+    }
+  ],
+  "ritualKits": [
+    {
+      "id": "kit-antyeshti-essential",
+      "name": "Antyeshti & Immediate Preparation Essential Kit (North & Central Indian Custom)",
+      "slug": "antyeshti-immediate-preparation-essential-kit",
+      "sku": "LC-KIT-101",
+      "shortDescription": "A clearly labelled, contributor-reviewed kit of foundational textiles, unglazed earthenware, and botanical samagri commonly used in North and Central Indian Hindu last rites.",
+      "fullDescription": "When a death occurs in the family, sourcing multiple small ritual items separately can be overwhelming. This kit brings together the core, non-perishable textiles, earthenware, and botanical items commonly requested by family priests in North, West, and Central Indian Hindu traditions. Every pouch inside the kit is clearly labelled in English and Devanagari with its customary purpose, distinguishing core items from optional additions.",
+      "intendedTradition": "Hindu Traditions (North, Central & West Indian Smarta / General Custom)",
+      "traditionSlug": "hindu-traditions",
+      "regionalApplicability": "Commonly suited to North, Central, and Western Indian Hindu families. South Indian (Iyer, Iyengar, Lingayat, Nair) and Bengali customs have distinct textile and vessel variations—see regional notes below.",
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "reviewedBy": "Dr. Arvind Shastri, PhD (Indology & Dharmashastra Studies)",
+      "reviewerCredentials": "Cultural Continuity Reviewer — Verified against regional priest checklists",
+      "lastReviewedAt": "2026-09-28",
+      "publicationStatus": "PUBLISHED",
+      "currencyCode": "INR",
+      "basePriceInr": 1850,
+      "mrpInr": 2190,
+      "gstPercent": 5,
+      "imageUrl": "/assets/products/ritual-kit.svg",
+      "imageAlt": "Antyeshti ritual kit with folded unbleached cotton cloth, terracotta vessel, and labelled botanical pouches",
+      "isPlaceholderImage": true,
+      "estimatedDispatch": "Prepared & dispatched within 6–12 hours in supported zones",
+      "supplierId": "sup-kashi-handloom",
+      "includedItems": [
+        {
+          "id": "ki-101-1",
+          "productId": "prod-kora-shroud",
+          "productName": "Unbleached Handspun Kora Cotton Shroud Cloth (5 Metres)",
+          "productSlug": "unbleached-handspun-kora-cotton-shroud-cloth",
+          "sku": "LC-TXT-001",
+          "quantity": 1,
+          "designation": "ESSENTIAL",
+          "intendedUseNote": "Primary unstitched white/unbleached cotton drape (5.0m) used for preparation.",
+          "unitPriceInr": 650,
+          "includedByDefault": true
+        },
+        {
+          "id": "ki-101-2",
+          "productId": "prod-terracotta-matka",
+          "productName": "Unglazed Terracotta Earthenware Vessel & Copper Kalash Pair",
+          "productSlug": "unglazed-terracotta-earthenware-vessel-copper-kalash",
+          "sku": "LC-ESS-003",
+          "quantity": 1,
+          "designation": "REGION_DEPENDENT",
+          "intendedUseNote": "Unglazed clay kumbha/matka and copper kalash for water offerings and asthi collection.",
+          "unitPriceInr": 480,
+          "includedByDefault": true
+        },
+        {
+          "id": "ki-101-3",
+          "productId": "prod-sandalwood-samagri",
+          "productName": "Pure Mysore Sandalwood Billet, Bhimseni Camphor & Sesame Pack",
+          "productSlug": "pure-sandalwood-billet-bhimseni-camphor-sesame-pack",
+          "sku": "LC-RIT-004",
+          "quantity": 1,
+          "designation": "ESSENTIAL",
+          "intendedUseNote": "Individually labelled pouches of black sesame (til), barley (jau), kush grass, camphor, and sandalwood.",
+          "unitPriceInr": 790,
+          "includedByDefault": true
+        }
+      ],
+      "optionalItems": [
+        {
+          "id": "ki-101-opt-1",
+          "productId": "prod-brass-akhand-diya",
+          "productName": "Heavy Matte Brass Akhand Jyoti Oil Lamp with Borosilicate Glass Chimney",
+          "productSlug": "heavy-matte-brass-akhand-jyoti-oil-lamp",
+          "sku": "LC-ACC-010",
+          "quantity": 1,
+          "designation": "OPTIONAL",
+          "intendedUseNote": "Optional lamp kept lit at home during the 10–13 day mourning observance.",
+          "unitPriceInr": 920,
+          "includedByDefault": false
+        },
+        {
+          "id": "ki-101-opt-2",
+          "productId": "prod-teak-memorial-frame",
+          "productName": "Handcrafted Solid Teakwood & Brass Inlay Memorial Portrait Frame",
+          "productSlug": "handcrafted-solid-teakwood-brass-memorial-portrait-frame",
+          "sku": "LC-MEM-006",
+          "quantity": 1,
+          "designation": "OPTIONAL",
+          "intendedUseNote": "Optional archival portrait frame for the home remembrance table or Chautha/Terahvin prayer gathering.",
+          "unitPriceInr": 1850,
+          "includedByDefault": false
+        },
+        {
+          "id": "ki-101-opt-3",
+          "productId": "prod-white-khadi-dari",
+          "productName": "Handwoven White Khadi Cotton Prayer Seating Mat (Baithak Dari)",
+          "productSlug": "handwoven-white-khadi-cotton-prayer-seating-mat",
+          "sku": "LC-ACC-012",
+          "quantity": 1,
+          "designation": "OPTIONAL",
+          "intendedUseNote": "Optional washable 9x6 ft white cotton floor seating mat for visitors at home.",
+          "unitPriceInr": 1650,
+          "includedByDefault": false
+        }
+      ],
+      "versionNumber": 3,
+      "versionHistory": [
+        {
+          "version": 3,
+          "date": "2026-09-28",
+          "editor": "Dr. Arvind Shastri",
+          "note": "Added bilingual pouch labels and clarified regional variation notes for South & East Indian families."
+        },
+        {
+          "version": 2,
+          "date": "2026-08-14",
+          "editor": "Operations Team",
+          "note": "Upgraded terracotta vessel packaging to double-walled honeycomb cushioning."
+        },
+        {
+          "version": 1,
+          "date": "2026-07-01",
+          "editor": "Dr. Arvind Shastri",
+          "note": "Initial verified checklist publication."
+        }
+      ],
+      "isSampleData": true,
+      "createdAt": "2026-07-01T10:00:00Z",
+      "updatedAt": "2026-09-28T10:00:00Z"
+    },
+    {
+      "id": "kit-kafan-ghusl-complete",
+      "name": "Complete Kafan & Ghusl Preparation Kit (Pure White Cotton Bafta)",
+      "slug": "complete-kafan-ghusl-preparation-kit",
+      "sku": "LC-KIT-102",
+      "shortDescription": "Unstitched pure white cotton Kafan sheets paired with sifted Sidr (Beri) leaf powder, natural camphor, Kannauj rosewater, and cotton wash mitts.",
+      "fullDescription": "Assembled with care and verified by community scholars, this kit combines our unstitched 100% pure white cotton bafta Kafan set with the complete Ghusl botanical preparation pack. Every cloth sheet is folded in the order of placement with a discreet measurement card so family members or volunteers can proceed calmly.",
+      "intendedTradition": "Muslim Traditions (Sunni & General Community Custom)",
+      "traditionSlug": "muslim-traditions",
+      "regionalApplicability": "Applicable across India. Includes clear sheet dimensions; families preferring the 5-piece configuration can add or select the variant as appropriate.",
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "reviewedBy": "Maulana Tariq Nadvi & Community Advisory Panel",
+      "reviewerCredentials": "Islamic Jurisprudence & Community Rites Reviewer",
+      "lastReviewedAt": "2026-09-18",
+      "publicationStatus": "PUBLISHED",
+      "currencyCode": "INR",
+      "basePriceInr": 1950,
+      "mrpInr": 2300,
+      "gstPercent": 5,
+      "imageUrl": "/assets/products/cotton-shroud.svg",
+      "imageAlt": "Pure white cotton Kafan sheets and Ghusl botanical preparation kit",
+      "isPlaceholderImage": true,
+      "estimatedDispatch": "Prepared & dispatched within 6–12 hours",
+      "supplierId": "sup-kashi-handloom",
+      "includedItems": [
+        {
+          "id": "ki-102-1",
+          "productId": "prod-kafan-set",
+          "productName": "Pure White Cotton Kafan Set (3-Piece & 5-Piece Configurations)",
+          "productSlug": "pure-white-cotton-kafan-set",
+          "sku": "LC-TXT-002",
+          "quantity": 1,
+          "designation": "ESSENTIAL",
+          "intendedUseNote": "Unstitched pure white cotton bafta sheets (Lifafah, Izar, Qamis) with 4 cotton ties.",
+          "unitPriceInr": 1450,
+          "includedByDefault": true
+        },
+        {
+          "id": "ki-102-2",
+          "productId": "prod-sidr-rosewater-set",
+          "productName": "Sidr (Beri Leaf) Powder, Camphor & Kannauj Rosewater Ghusl Pack",
+          "productSlug": "sidr-leaf-powder-camphor-kannauj-rosewater-ghusl-pack",
+          "sku": "LC-RIT-005",
+          "quantity": 1,
+          "designation": "ESSENTIAL",
+          "intendedUseNote": "Sifted Sidr leaf powder for washing, natural camphor for the final rinse, alcohol-free rosewater, and cotton mitts.",
+          "unitPriceInr": 560,
+          "includedByDefault": true
+        }
+      ],
+      "optionalItems": [
+        {
+          "id": "ki-102-opt-1",
+          "productId": "prod-white-khadi-dari",
+          "productName": "Handwoven White Khadi Cotton Prayer Seating Mat (Baithak Dari)",
+          "productSlug": "handwoven-white-khadi-cotton-prayer-seating-mat",
+          "sku": "LC-ACC-012",
+          "quantity": 1,
+          "designation": "OPTIONAL",
+          "intendedUseNote": "Optional clean white cotton floor seating (9x6 ft) for guests visiting the home for ताज़ियत (condolences) and Fateha.",
+          "unitPriceInr": 1650,
+          "includedByDefault": false
+        },
+        {
+          "id": "ki-102-opt-2",
+          "productId": "prod-remembrance-book",
+          "productName": "Archival Linen-Bound Condolence & Remembrance Register",
+          "productSlug": "archival-linen-bound-condolence-remembrance-register",
+          "sku": "LC-MEM-007",
+          "quantity": 1,
+          "designation": "OPTIONAL",
+          "intendedUseNote": "Optional unembellished linen register for recording visitor messages.",
+          "unitPriceInr": 1290,
+          "includedByDefault": false
+        }
+      ],
+      "versionNumber": 2,
+      "versionHistory": [
+        {
+          "version": 2,
+          "date": "2026-09-18",
+          "editor": "Maulana Tariq Nadvi",
+          "note": "Verified 0% alcohol steam-distillation certificate for Kannauj rosewater hydrosol."
+        },
+        {
+          "version": 1,
+          "date": "2026-07-10",
+          "editor": "Maulana Tariq Nadvi",
+          "note": "Initial kit definition reviewed and approved."
+        }
+      ],
+      "isSampleData": true,
+      "createdAt": "2026-07-10T10:00:00Z",
+      "updatedAt": "2026-09-18T10:00:00Z"
+    },
+    {
+      "id": "kit-christian-memorial-vigil",
+      "name": "Christian Home Vigil & Memorial Service Preparation Kit",
+      "slug": "christian-home-vigil-memorial-service-kit",
+      "sku": "LC-KIT-103",
+      "shortDescription": "Unscented beeswax vigil candles, hemstitched white linen table cloth, solid teakwood portrait frame, and archival condolence register.",
+      "fullDescription": "Thoughtfully assembled for Christian families preparing a home prayer vigil, wake, or church memorial reception table. Combines clean-burning beeswax vigil candles and white linen with our solid teakwood portrait frame and flat-lay condolence register.",
+      "intendedTradition": "Christian Traditions (Catholic, CSI/CNI, Syrian Christian & Interdenominational)",
+      "traditionSlug": "christian-traditions",
+      "regionalApplicability": "Pan-India across Roman Catholic, Protestant, and Syrian Christian communities.",
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "reviewedBy": "Rev. Thomas Kurien",
+      "reviewerCredentials": "Inter-Church Pastoral Care Reviewer",
+      "lastReviewedAt": "2026-09-20",
+      "publicationStatus": "PUBLISHED",
+      "currencyCode": "INR",
+      "basePriceInr": 4150,
+      "mrpInr": 5040,
+      "gstPercent": 12,
+      "imageUrl": "/assets/products/memorial-frame.svg",
+      "imageAlt": "Teakwood memorial frame, beeswax vigil candles, and linen condolence register",
+      "isPlaceholderImage": true,
+      "estimatedDispatch": "Prepared & dispatched within 12–24 hours",
+      "supplierId": "sup-deccan-crafts",
+      "includedItems": [
+        {
+          "id": "ki-103-1",
+          "productId": "prod-beeswax-vigil-candles",
+          "productName": "Unscented Pure Beeswax Vigil Candles & White Linen Cloth Set",
+          "productSlug": "unscented-pure-beeswax-vigil-candles-white-linen-set",
+          "sku": "LC-RIT-011",
+          "quantity": 1,
+          "designation": "ESSENTIAL",
+          "intendedUseNote": "4 unscented beeswax vigil candles, 2 brass trays, and white hemstitched linen runner.",
+          "unitPriceInr": 1180,
+          "includedByDefault": true
+        },
+        {
+          "id": "ki-103-2",
+          "productId": "prod-teak-memorial-frame",
+          "productName": "Handcrafted Solid Teakwood & Brass Inlay Memorial Portrait Frame",
+          "productSlug": "handcrafted-solid-teakwood-brass-memorial-portrait-frame",
+          "sku": "LC-MEM-006",
+          "quantity": 1,
+          "designation": "ESSENTIAL",
+          "intendedUseNote": "Solid teakwood portrait frame with easel stand for the vigil or church entrance table.",
+          "unitPriceInr": 1850,
+          "includedByDefault": true
+        },
+        {
+          "id": "ki-103-3",
+          "productId": "prod-remembrance-book",
+          "productName": "Archival Linen-Bound Condolence & Remembrance Register",
+          "productSlug": "archival-linen-bound-condolence-remembrance-register",
+          "sku": "LC-MEM-007",
+          "quantity": 1,
+          "designation": "ESSENTIAL",
+          "intendedUseNote": "Flat-lay condolence register for attendees at the wake or funeral service.",
+          "unitPriceInr": 1290,
+          "includedByDefault": true
+        }
+      ],
+      "optionalItems": [
+        {
+          "id": "ki-103-opt-1",
+          "productId": "prod-white-floral-tribute",
+          "productName": "Serene White Chrysanthemum, Mogra & Eucalyptus Tribute Garland",
+          "productSlug": "serene-white-chrysanthemum-mogra-eucalyptus-tribute",
+          "sku": "LC-FLW-008",
+          "quantity": 1,
+          "designation": "OPTIONAL",
+          "intendedUseNote": "Optional fresh white floral tribute sheaf (available in supported metro PIN codes).",
+          "unitPriceInr": 1150,
+          "includedByDefault": false
+        }
+      ],
+      "versionNumber": 1,
+      "versionHistory": [
+        {
+          "version": 1,
+          "date": "2026-09-20",
+          "editor": "Rev. Thomas Kurien",
+          "note": "Reviewed to ensure neutral, respectful suitability across denominations without sectarian ornamentation."
+        }
+      ],
+      "isSampleData": true,
+      "createdAt": "2026-08-01T10:00:00Z",
+      "updatedAt": "2026-09-20T10:00:00Z"
+    },
+    {
+      "id": "kit-sikh-antam-sanskar",
+      "name": "Antam Sanskar & Antim Ardas White Khadi Preparation Kit",
+      "slug": "antam-sanskar-antim-ardas-white-khadi-kit",
+      "sku": "LC-KIT-104",
+      "shortDescription": "Unbleached white cotton textile, handwoven white cotton seating dari for Path at home, and solid teakwood portrait frame.",
+      "fullDescription": "Prepared in keeping with the simplicity and dignity of Gurmat tradition. Includes pure unbleached cotton cloth for Antam Sanskar preparation and a washable 9x6 ft white cotton floor dari for Sahaj Path or family prayer at home.",
+      "intendedTradition": "Sikh Traditions (Antam Sanskar & Home Path Preparation)",
+      "traditionSlug": "sikh-traditions",
+      "regionalApplicability": "Pan-India",
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "reviewedBy": "Prof. Gurpreet Singh Sandhu",
+      "reviewerCredentials": "Sikh Studies & Gurmat Tradition Reviewer",
+      "lastReviewedAt": "2026-09-22",
+      "publicationStatus": "PUBLISHED",
+      "currencyCode": "INR",
+      "basePriceInr": 2200,
+      "mrpInr": 2700,
+      "gstPercent": 5,
+      "imageUrl": "/assets/products/cotton-shroud.svg",
+      "imageAlt": "White khadi cotton cloth and floor seating dari for Antam Sanskar and Path",
+      "isPlaceholderImage": true,
+      "estimatedDispatch": "Prepared & dispatched within 12 hours",
+      "supplierId": "sup-kashi-handloom",
+      "includedItems": [
+        {
+          "id": "ki-104-1",
+          "productId": "prod-kora-shroud",
+          "productName": "Unbleached Handspun Kora Cotton Shroud Cloth (5 Metres)",
+          "productSlug": "unbleached-handspun-kora-cotton-shroud-cloth",
+          "sku": "LC-TXT-001",
+          "quantity": 1,
+          "designation": "ESSENTIAL",
+          "intendedUseNote": "Clean unbleached white cotton cloth (5.0m).",
+          "unitPriceInr": 650,
+          "includedByDefault": true
+        },
+        {
+          "id": "ki-104-2",
+          "productId": "prod-white-khadi-dari",
+          "productName": "Handwoven White Khadi Cotton Prayer Seating Mat (Baithak Dari)",
+          "productSlug": "handwoven-white-khadi-cotton-prayer-seating-mat",
+          "sku": "LC-ACC-012",
+          "quantity": 1,
+          "designation": "ESSENTIAL",
+          "intendedUseNote": "Clean white cotton floor seating (9x6 ft) for family Kirtan and Path at home.",
+          "unitPriceInr": 1650,
+          "includedByDefault": true
+        }
+      ],
+      "optionalItems": [
+        {
+          "id": "ki-104-opt-1",
+          "productId": "prod-teak-memorial-frame",
+          "productName": "Handcrafted Solid Teakwood & Brass Inlay Memorial Portrait Frame",
+          "productSlug": "handcrafted-solid-teakwood-brass-memorial-portrait-frame",
+          "sku": "LC-MEM-006",
+          "quantity": 1,
+          "designation": "OPTIONAL",
+          "intendedUseNote": "Optional solid teakwood portrait frame for home remembrance.",
+          "unitPriceInr": 1850,
+          "includedByDefault": false
+        }
+      ],
+      "versionNumber": 1,
+      "versionHistory": [
+        {
+          "version": 1,
+          "date": "2026-09-22",
+          "editor": "Prof. Gurpreet Singh Sandhu",
+          "note": "Reviewed to ensure alignment with simple Gurmat guidelines."
+        }
+      ],
+      "isSampleData": true,
+      "createdAt": "2026-08-05T10:00:00Z",
+      "updatedAt": "2026-09-22T10:00:00Z"
+    },
+    {
+      "id": "kit-quiet-remembrance-home",
+      "name": "Universal Quiet Remembrance & Prayer Meeting Table Kit",
+      "slug": "universal-quiet-remembrance-prayer-meeting-table-kit",
+      "sku": "LC-KIT-105",
+      "shortDescription": "A calm, non-sectarian set for a home memorial table or prayer gathering: solid teakwood portrait frame, archival linen condolence book, and matte brass lamp.",
+      "fullDescription": "Designed for families of any background planning a prayer meeting (Chautha, Besna, Uthamna, Shraddhanjali Sabha, or secular celebration of life). Brings together a handcrafted teakwood portrait frame, an archival linen condolence register for guests, and a weighted brass lamp.",
+      "intendedTradition": "All Traditions & Secular Memorial Gatherings",
+      "traditionSlug": "regional-cultural-traditions",
+      "regionalApplicability": "Pan-India (Suitable for all communities and interfaith households)",
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "reviewedBy": "LastCry Cultural Documentation Team",
+      "reviewerCredentials": "Multi-Regional Ethnographic Review Panel",
+      "lastReviewedAt": "2026-10-01",
+      "publicationStatus": "PUBLISHED",
+      "currencyCode": "INR",
+      "basePriceInr": 3890,
+      "mrpInr": 4790,
+      "gstPercent": 12,
+      "imageUrl": "/assets/products/memorial-frame.svg",
+      "imageAlt": "Teakwood portrait frame, linen remembrance register, and matte brass lamp",
+      "isPlaceholderImage": true,
+      "estimatedDispatch": "Dispatches within 12–24 hours across India",
+      "supplierId": "sup-deccan-crafts",
+      "includedItems": [
+        {
+          "id": "ki-105-1",
+          "productId": "prod-teak-memorial-frame",
+          "productName": "Handcrafted Solid Teakwood & Brass Inlay Memorial Portrait Frame",
+          "productSlug": "handcrafted-solid-teakwood-brass-memorial-portrait-frame",
+          "sku": "LC-MEM-006",
+          "quantity": 1,
+          "designation": "ESSENTIAL",
+          "intendedUseNote": "Central portrait frame with archival acid-free mount and table easel.",
+          "unitPriceInr": 1850,
+          "includedByDefault": true
+        },
+        {
+          "id": "ki-105-2",
+          "productId": "prod-remembrance-book",
+          "productName": "Archival Linen-Bound Condolence & Remembrance Register",
+          "productSlug": "archival-linen-bound-condolence-remembrance-register",
+          "sku": "LC-MEM-007",
+          "quantity": 1,
+          "designation": "ESSENTIAL",
+          "intendedUseNote": "Smyth-sewn flat-lay condolence register for visitors to write memories.",
+          "unitPriceInr": 1290,
+          "includedByDefault": true
+        },
+        {
+          "id": "ki-105-3",
+          "productId": "prod-brass-akhand-diya",
+          "productName": "Heavy Matte Brass Akhand Jyoti Oil Lamp with Borosilicate Glass Chimney",
+          "productSlug": "heavy-matte-brass-akhand-jyoti-oil-lamp",
+          "sku": "LC-ACC-010",
+          "quantity": 1,
+          "designation": "OPTIONAL",
+          "intendedUseNote": "Weighted brass oil lamp with glass draft shield and 50 cotton wicks.",
+          "unitPriceInr": 920,
+          "includedByDefault": true
+        }
+      ],
+      "optionalItems": [
+        {
+          "id": "ki-105-opt-1",
+          "productId": "prod-white-khadi-dari",
+          "productName": "Handwoven White Khadi Cotton Prayer Seating Mat (Baithak Dari)",
+          "productSlug": "handwoven-white-khadi-cotton-prayer-seating-mat",
+          "sku": "LC-ACC-012",
+          "quantity": 1,
+          "designation": "OPTIONAL",
+          "intendedUseNote": "Optional 9x6 ft white cotton seating mat for visitors.",
+          "unitPriceInr": 1650,
+          "includedByDefault": false
+        },
+        {
+          "id": "ki-105-opt-2",
+          "productId": "prod-white-floral-tribute",
+          "productName": "Serene White Chrysanthemum, Mogra & Eucalyptus Tribute Garland",
+          "productSlug": "serene-white-chrysanthemum-mogra-eucalyptus-tribute",
+          "sku": "LC-FLW-008",
+          "quantity": 1,
+          "designation": "OPTIONAL",
+          "intendedUseNote": "Optional fresh white floral garland (supported metro PIN codes only).",
+          "unitPriceInr": 1150,
+          "includedByDefault": false
+        }
+      ],
+      "versionNumber": 2,
+      "versionHistory": [
+        {
+          "version": 2,
+          "date": "2026-10-01",
+          "editor": "LastCry Cultural Documentation Team",
+          "note": "Added optional metro floral garland pairing."
+        },
+        {
+          "version": 1,
+          "date": "2026-08-15",
+          "editor": "LastCry Cultural Documentation Team",
+          "note": "Initial publication."
+        }
+      ],
+      "isSampleData": true,
+      "createdAt": "2026-08-15T10:00:00Z",
+      "updatedAt": "2026-10-01T10:00:00Z"
+    }
+  ],
+  "deliveryZones": [
+    {
+      "id": "zone-mumbai-mmr",
+      "zoneName": "Mumbai & MMR Regional Hub",
+      "city": "Mumbai / Thane / Navi Mumbai",
+      "state": "Maharashtra",
+      "pinCodePrefixes": [
+        "400",
+        "401",
+        "410"
+      ],
+      "supportedDeliveryModes": [
+        "STANDARD_SURFACE",
+        "PRIORITY_LOCAL_COURIER"
+      ],
+      "standardFeeInr": 90,
+      "freeDeliveryThresholdInr": 1500,
+      "dispatchCutoffLocalTime": "18:00 IST",
+      "estimatedWindow": "Next-day delivery (24 hours) via regional hub",
+      "priorityWindow": "Dispatched within 4–6 hours via local courier partner (Subject to hub stock)",
+      "priorityFeeInr": 220,
+      "supportsPerishableFlowers": true,
+      "isActive": true
+    },
+    {
+      "id": "zone-pune",
+      "zoneName": "Pune Metropolitan Zone",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pinCodePrefixes": [
+        "411",
+        "412"
+      ],
+      "supportedDeliveryModes": [
+        "STANDARD_SURFACE",
+        "PRIORITY_LOCAL_COURIER"
+      ],
+      "standardFeeInr": 90,
+      "freeDeliveryThresholdInr": 1500,
+      "dispatchCutoffLocalTime": "17:30 IST",
+      "estimatedWindow": "Next-day delivery (24 hours)",
+      "priorityWindow": "Dispatched within 6–8 hours via Pune studio hub",
+      "priorityFeeInr": 200,
+      "supportsPerishableFlowers": true,
+      "isActive": true
+    },
+    {
+      "id": "zone-delhi-ncr",
+      "zoneName": "Delhi NCR Regional Hub",
+      "city": "New Delhi / Gurugram / Noida",
+      "state": "Delhi / Haryana / UP",
+      "pinCodePrefixes": [
+        "110",
+        "122",
+        "201"
+      ],
+      "supportedDeliveryModes": [
+        "STANDARD_SURFACE",
+        "PRIORITY_LOCAL_COURIER"
+      ],
+      "standardFeeInr": 110,
+      "freeDeliveryThresholdInr": 1500,
+      "dispatchCutoffLocalTime": "17:00 IST",
+      "estimatedWindow": "1–2 business days (24–36 hours)",
+      "priorityWindow": "Same-day / 8-hour local dispatch in central NCR sectors",
+      "priorityFeeInr": 240,
+      "supportsPerishableFlowers": true,
+      "isActive": true
+    },
+    {
+      "id": "zone-bengaluru",
+      "zoneName": "Bengaluru Metropolitan Hub",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pinCodePrefixes": [
+        "560"
+      ],
+      "supportedDeliveryModes": [
+        "STANDARD_SURFACE",
+        "PRIORITY_LOCAL_COURIER"
+      ],
+      "standardFeeInr": 110,
+      "freeDeliveryThresholdInr": 1500,
+      "dispatchCutoffLocalTime": "17:00 IST",
+      "estimatedWindow": "1–2 business days (24–36 hours)",
+      "priorityWindow": "Dispatched within 6–10 hours within BBMP limits",
+      "priorityFeeInr": 240,
+      "supportsPerishableFlowers": true,
+      "isActive": true
+    },
+    {
+      "id": "zone-tier1-national",
+      "zoneName": "National Air & Surface Corridor (Chennai, Kolkata, Hyderabad, Ahmedabad, Varanasi)",
+      "city": "Major Tier-1 & Tier-2 Cities",
+      "state": "Pan-India Supported Corridors",
+      "pinCodePrefixes": [
+        "600",
+        "700",
+        "500",
+        "380",
+        "221",
+        "302",
+        "226",
+        "440",
+        "682"
+      ],
+      "supportedDeliveryModes": [
+        "STANDARD_SURFACE"
+      ],
+      "standardFeeInr": 140,
+      "freeDeliveryThresholdInr": 2000,
+      "dispatchCutoffLocalTime": "16:00 IST",
+      "estimatedWindow": "2–4 business days via tracked air/surface parcel (Non-perishables only)",
+      "supportsPerishableFlowers": false,
+      "isActive": true
+    }
+  ],
+  "coupons": [
+    {
+      "id": "coup-care-delivery",
+      "code": "FREESHIP",
+      "description": "Waives standard shipping charges on any eligible order above ₹900",
+      "discountType": "FLAT_INR",
+      "discountValue": 140,
+      "minOrderInr": 900,
+      "maxDiscountInr": 140,
+      "isActive": true,
+      "usageLimit": 500,
+      "usedCount": 14
+    },
+    {
+      "id": "coup-community-support",
+      "code": "COMMUNITY10",
+      "description": "10% institutional / community welfare assistance on ritual kits and essentials",
+      "discountType": "PERCENTAGE",
+      "discountValue": 10,
+      "minOrderInr": 1200,
+      "maxDiscountInr": 500,
+      "isActive": true,
+      "usageLimit": 200,
+      "usedCount": 6
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-sample-1001",
+      "orderNumber": "LC-2026-1001",
+      "userId": "usr-customer-1",
+      "customerName": "Ananya Deshmukh (Sample Order)",
+      "customerEmail": "ananya.sample@example.in",
+      "customerPhone": "+91 98201 00101",
+      "shippingAddress": {
+        "line1": "Flat 402, Shanti Niketan CHSL, Prabhat Road",
+        "line2": "Deccan Gymkhana",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "pinCode": "411004"
+      },
+      "deliveryInstructions": "Please hand over quietly to the security desk at Gate 1.",
+      "deliveryMethod": "PRIORITY_LOCAL_COURIER",
+      "estimatedDeliveryWindow": "Dispatched within 6–8 hours via Pune studio hub",
+      "currencyCode": "INR",
+      "subtotalInr": 3890,
+      "taxInr": 466.8,
+      "deliveryFeeInr": 200,
+      "discountInr": 0,
+      "totalInr": 4556.8,
+      "orderStatus": "DELIVERED",
+      "paymentStatus": "PAID",
+      "fulfilmentStatus": "DELIVERED",
+      "paymentDetails": {
+        "provider": "RAZORPAY_SANDBOX",
+        "providerOrderId": "order_sandbox_1001",
+        "providerPaymentId": "pay_sandbox_1001",
+        "idempotencyKey": "idem_sample_1001",
+        "signatureVerified": true,
+        "isSandbox": true
+      },
+      "shipmentDetails": {
+        "supplierId": "sup-deccan-crafts",
+        "carrierName": "BlueDart / Local Studio Courier",
+        "trackingNumber": "BD-PNQ-8849201",
+        "dispatchedAt": "2026-10-20T09:30:00Z",
+        "deliveredAt": "2026-10-20T15:10:00Z"
+      },
+      "internalNotes": [
+        "Sample completed order for demonstration. Discreet unbranded outer carton used."
+      ],
+      "statusHistory": [
+        {
+          "timestamp": "2026-10-20T08:15:00Z",
+          "orderStatus": "CONFIRMED",
+          "paymentStatus": "PAID",
+          "fulfilmentStatus": "RESERVED",
+          "actor": "SYSTEM_WEBHOOK",
+          "note": "Sandbox payment verified and inventory reserved."
+        },
+        {
+          "timestamp": "2026-10-20T09:30:00Z",
+          "orderStatus": "SHIPPED",
+          "paymentStatus": "PAID",
+          "fulfilmentStatus": "IN_TRANSIT",
+          "actor": "ops@lastcry.in",
+          "note": "Dispatched from Pune studio hub via local courier."
+        },
+        {
+          "timestamp": "2026-10-20T15:10:00Z",
+          "orderStatus": "DELIVERED",
+          "paymentStatus": "PAID",
+          "fulfilmentStatus": "DELIVERED",
+          "actor": "ops@lastcry.in",
+          "note": "Delivered to recipient security desk as instructed."
+        }
+      ],
+      "items": [
+        {
+          "id": "oi-1001-1",
+          "itemType": "RITUAL_KIT",
+          "ritualKitId": "kit-quiet-remembrance-home",
+          "slug": "universal-quiet-remembrance-prayer-meeting-table-kit",
+          "title": "Universal Quiet Remembrance & Prayer Meeting Table Kit",
+          "sku": "LC-KIT-105",
+          "quantity": 1,
+          "unitPriceInr": 3890,
+          "gstPercent": 12,
+          "taxAmountInr": 466.8,
+          "lineTotalInr": 3890,
+          "kitContentsSummary": [
+            "1x Handcrafted Solid Teakwood & Brass Inlay Memorial Portrait Frame",
+            "1x Archival Linen-Bound Condolence & Remembrance Register",
+            "1x Heavy Matte Brass Akhand Jyoti Oil Lamp with Borosilicate Glass Chimney"
+          ]
+        }
+      ],
+      "isSampleData": true,
+      "createdAt": "2026-10-20T08:12:00Z",
+      "updatedAt": "2026-10-20T15:10:00Z"
+    },
+    {
+      "id": "ord-sample-1002",
+      "orderNumber": "LC-2026-1002",
+      "userId": "usr-customer-1",
+      "customerName": "Vikramaditya Nair (Sample Order)",
+      "customerEmail": "vikram.sample@example.in",
+      "customerPhone": "+91 98112 00202",
+      "shippingAddress": {
+        "line1": "B-19, Safdarjung Enclave",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "pinCode": "110029"
+      },
+      "deliveryInstructions": "Call on arrival; do not ring doorbell repeatedly.",
+      "deliveryMethod": "STANDARD_SURFACE",
+      "estimatedDeliveryWindow": "1–2 business days (24–36 hours)",
+      "currencyCode": "INR",
+      "subtotalInr": 1850,
+      "taxInr": 92.5,
+      "deliveryFeeInr": 0,
+      "discountInr": 0,
+      "totalInr": 1942.5,
+      "orderStatus": "PROCESSING",
+      "paymentStatus": "PAID",
+      "fulfilmentStatus": "PREPARING",
+      "paymentDetails": {
+        "provider": "RAZORPAY_SANDBOX",
+        "providerOrderId": "order_sandbox_1002",
+        "providerPaymentId": "pay_sandbox_1002",
+        "idempotencyKey": "idem_sample_1002",
+        "signatureVerified": true,
+        "isSandbox": true
+      },
+      "internalNotes": [
+        "Sample order awaiting dispatch assignment in Delhi NCR hub."
+      ],
+      "statusHistory": [
+        {
+          "timestamp": "2026-10-24T14:20:00Z",
+          "orderStatus": "PROCESSING",
+          "paymentStatus": "PAID",
+          "fulfilmentStatus": "PREPARING",
+          "actor": "SYSTEM_WEBHOOK",
+          "note": "Payment verified; assigned to Delhi NCR hub for packing."
+        }
+      ],
+      "items": [
+        {
+          "id": "oi-1002-1",
+          "itemType": "RITUAL_KIT",
+          "ritualKitId": "kit-antyeshti-essential",
+          "slug": "antyeshti-immediate-preparation-essential-kit",
+          "title": "Antyeshti & Immediate Preparation Essential Kit (North & Central Indian Custom)",
+          "sku": "LC-KIT-101",
+          "quantity": 1,
+          "unitPriceInr": 1850,
+          "gstPercent": 5,
+          "taxAmountInr": 92.5,
+          "lineTotalInr": 1850,
+          "kitContentsSummary": [
+            "1x Unbleached Handspun Kora Cotton Shroud Cloth (5 Metres)",
+            "1x Unglazed Terracotta Earthenware Vessel & Copper Kalash Pair",
+            "1x Pure Mysore Sandalwood Billet, Bhimseni Camphor & Sesame Pack"
+          ]
+        }
+      ],
+      "isSampleData": true,
+      "createdAt": "2026-10-24T14:18:00Z",
+      "updatedAt": "2026-10-24T14:20:00Z"
+    },
+    {
+      "id": "ord-sample-1003",
+      "orderNumber": "LC-2026-1003",
+      "customerName": "Rohan Mehta (Sample Refund Request)",
+      "customerEmail": "rohan.sample@example.in",
+      "customerPhone": "+91 98209 00303",
+      "shippingAddress": {
+        "line1": "14, Carmichael Road",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "pinCode": "400026"
+      },
+      "deliveryMethod": "STANDARD_SURFACE",
+      "estimatedDeliveryWindow": "Next-day delivery (24 hours)",
+      "currencyCode": "INR",
+      "subtotalInr": 1590,
+      "taxInr": 190.8,
+      "deliveryFeeInr": 0,
+      "discountInr": 0,
+      "totalInr": 1780.8,
+      "orderStatus": "REFUND_PENDING",
+      "paymentStatus": "REFUND_PENDING",
+      "fulfilmentStatus": "CANCELLED",
+      "paymentDetails": {
+        "provider": "RAZORPAY_SANDBOX",
+        "providerOrderId": "order_sandbox_1003",
+        "providerPaymentId": "pay_sandbox_1003",
+        "idempotencyKey": "idem_sample_1003",
+        "signatureVerified": true,
+        "isSandbox": true
+      },
+      "refundDetails": {
+        "refundId": "rfnd_sample_1003",
+        "amountInr": 1780.8,
+        "reason": "Customer requested cancellation prior to dispatch due to change in family travel address.",
+        "status": "PENDING_APPROVAL",
+        "requestedAt": "2026-10-25T06:00:00Z"
+      },
+      "internalNotes": [
+        "Sample refund awaiting finance/admin approval in Admin Dashboard."
+      ],
+      "statusHistory": [
+        {
+          "timestamp": "2026-10-25T05:10:00Z",
+          "orderStatus": "CONFIRMED",
+          "paymentStatus": "PAID",
+          "fulfilmentStatus": "RESERVED",
+          "actor": "SYSTEM_WEBHOOK",
+          "note": "Order confirmed."
+        },
+        {
+          "timestamp": "2026-10-25T06:00:00Z",
+          "orderStatus": "REFUND_PENDING",
+          "paymentStatus": "REFUND_PENDING",
+          "fulfilmentStatus": "CANCELLED",
+          "actor": "rohan.sample@example.in",
+          "note": "Cancellation requested prior to dispatch; inventory released."
+        }
+      ],
+      "items": [
+        {
+          "id": "oi-1003-1",
+          "itemType": "PRODUCT",
+          "productId": "prod-condolence-care-box",
+          "slug": "quiet-comfort-household-care-parcel-sympathy-card",
+          "title": "Quiet Comfort Household Care Parcel & Letterpress Sympathy Card",
+          "sku": "LC-CND-009",
+          "quantity": 1,
+          "unitPriceInr": 1590,
+          "gstPercent": 12,
+          "taxAmountInr": 190.8,
+          "lineTotalInr": 1590
+        }
+      ],
+      "isSampleData": true,
+      "createdAt": "2026-10-25T05:08:00Z",
+      "updatedAt": "2026-10-25T06:00:00Z"
+    }
+  ],
+  "serviceListings": [
+    {
+      "id": "srv-1",
+      "providerName": "Sahyadri Serene Floral Studio (Demo Listing)",
+      "slug": "sahyadri-serene-floral-studio-mumbai",
+      "category": "Memorial Florists",
+      "city": "Mumbai & Pune",
+      "state": "Maharashtra",
+      "serviceAreas": [
+        "Mumbai (400xxx)",
+        "Navi Mumbai (410xxx)",
+        "Pune (411xxx)"
+      ],
+      "publicPhone": "+91 22 2619 7720 (Sample Directory Number)",
+      "publicEmail": "enquiries@sahyadriflorals.example.in",
+      "publishedPriceInfo": "Portrait garlands from ₹950; custom prayer hall floral arrangements quoted upon enquiry.",
+      "availabilityInfo": "Enquiry-based coordination (8:00 AM – 8:00 PM IST). No automated instant booking.",
+      "verificationStatus": "VERIFIED_PROVIDER",
+      "verifiedBy": "LastCry Partner Compliance Desk (Sample Verification)",
+      "description": "Specializes in understated, plastic-free white floral arrangements, portrait garlands, and prayer hall table florals using fresh chrysanthemums, mogra, and lotus buds.",
+      "bookingWorkflow": "ENQUIRY_REFERRAL_ONLY",
+      "isSampleData": true
+    },
+    {
+      "id": "srv-2",
+      "providerName": "Deccan Archival Memorial Printers (Demo Listing)",
+      "slug": "deccan-archival-memorial-printers-pune",
+      "category": "Memorial Printers",
+      "city": "Pune & Mumbai",
+      "state": "Maharashtra",
+      "serviceAreas": [
+        "Pune (411xxx)",
+        "Mumbai (400xxx)",
+        "Pan-India Courier"
+      ],
+      "publicPhone": "+91 20 2567 4390 (Sample Directory Number)",
+      "publicEmail": "printdesk@deccanarchival.example.in",
+      "publishedPriceInfo": "Archival portrait restoration & framing from ₹1,850; prayer meeting service booklets from ₹45/copy.",
+      "availabilityInfo": "Enquiry workflow — proof shared digitally before printing.",
+      "verificationStatus": "VERIFIED_PROVIDER",
+      "verifiedBy": "LastCry Partner Compliance Desk (Sample Verification)",
+      "description": "Provides dignified photograph restoration, archival pigment printing on cotton rag paper, and multilingual prayer service programmes (English, Marathi, Hindi, Gujarati, Tamil, Malayalam).",
+      "bookingWorkflow": "ENQUIRY_REFERRAL_ONLY",
+      "isSampleData": true
+    },
+    {
+      "id": "srv-3",
+      "providerName": " Karuna Grief & Bereavement Listening Circle (Demo Listing)",
+      "slug": "karuna-grief-bereavement-listening-circle",
+      "category": "Grief Support Organizations",
+      "city": "Bengaluru & Online Pan-India",
+      "state": "Karnataka / Pan-India",
+      "serviceAreas": [
+        "Bengaluru (560xxx)",
+        "Tele-counselling Pan-India"
+      ],
+      "publicPhone": "+91 80 4120 9900 (Sample Directory Number)",
+      "publicEmail": "support@karunacircle.example.org",
+      "publishedPriceInfo": "Free community peer-support circles; sliding-scale individual grief counselling.",
+      "availabilityInfo": "By appointment via referral enquiry form.",
+      "verificationStatus": "DEMO_SAMPLE_UNVERIFIED",
+      "description": "Demo sample listing illustrating how non-commercial grief counselling organizations and bereavement support groups are listed with transparent verification labels.",
+      "bookingWorkflow": "ENQUIRY_REFERRAL_ONLY",
+      "isSampleData": true
+    },
+    {
+      "id": "srv-4",
+      "providerName": "Metropolitan Municipal Crematorium & Cemetery Information Desk (Demo Reference)",
+      "slug": "metropolitan-crematorium-cemetery-information-reference",
+      "category": "Crematorium & Cemetery Information",
+      "city": "Mumbai / Delhi / Bengaluru",
+      "state": "Multiple States",
+      "serviceAreas": [
+        "Mumbai",
+        "New Delhi",
+        "Bengaluru",
+        "Pune"
+      ],
+      "publicPhone": "Refer to Municipal Civic Portal (1916 / Local Ward Office)",
+      "publicEmail": "guidance@lastcry.in",
+      "publishedPriceInfo": "Municipal facilities are governed by official civic tariff schedules; LastCry does not charge booking fees.",
+      "availabilityInfo": "Informational referral only — families book directly with municipal authorities or local trusts.",
+      "verificationStatus": "DEMO_SAMPLE_UNVERIFIED",
+      "description": "Informational directory entry explaining municipal documentation requirements (Form 4 / Form 4A medical certificate of cause of death, identity documents) required by civic crematoria and burial grounds.",
+      "bookingWorkflow": "ENQUIRY_REFERRAL_ONLY",
+      "isSampleData": true
+    }
+  ],
+  "serviceEnquiries": [],
+  "guidanceArticles": [
+    {
+      "id": "art-1",
+      "title": "Understanding the Contents of a Ritual Kit: What Is Core vs. Optional",
+      "slug": "understanding-the-contents-of-a-ritual-kit",
+      "summary": "How to read a ritual checklist calmly, distinguish foundational items from optional or regional additions, and coordinate with your family elders or officiant.",
+      "contentSections": [
+        {
+          "heading": "Why Checklists Often Feel Overwhelming",
+          "paragraphs": [
+            "When a death occurs, families are often handed handwritten lists of twenty or thirty items under time pressure. Many of these lists combine foundational items (such as unstitched cotton cloth or basic vessels) with optional regional items or preferences specific to a single priest or locality.",
+            "At LastCry, every product and kit is categorized into three clear designations: Essential (commonly used across the named tradition), Optional (customary additions that are not strictly required), and Region-Dependent (items used in specific regional communities)."
+          ]
+        },
+        {
+          "heading": "How to Coordinate with Your Family or Officiant",
+          "paragraphs": [
+            "Every ritual kit on LastCry lists its exact contents, quantities, and weight before you add it to your cart. You can share the kit checklist page directly with a family elder, priest, maulvi, granthi, or pastor to confirm whether any optional items should be added or omitted."
+          ],
+          "bulletPoints": [
+            "Never feel pressured to purchase every optional accessory—dignity and intention matter far more than the volume of supplies.",
+            "Check whether your local crematorium, masjid, church, or gurdwara already provides certain vessels or seating mats on site.",
+            "Use the Ritual Kit Builder to deselect or add optional items transparently before checkout."
+          ]
+        }
+      ],
+      "applicableRegion": "Pan-India",
+      "applicableTradition": "All Traditions",
+      "reviewerName": "Dr. Arvind Shastri & Multi-Tradition Review Panel",
+      "reviewerCredentials": "Cultural Continuity & Ethnographic Review Desk",
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "lastReviewedDate": "2026-09-28",
+      "relatedProductSlugs": [
+        "unbleached-handspun-kora-cotton-shroud-cloth",
+        "pure-white-cotton-kafan-set"
+      ],
+      "relatedKitSlugs": [
+        "antyeshti-immediate-preparation-essential-kit",
+        "complete-kafan-ghusl-preparation-kit"
+      ],
+      "sources": [
+        "LastCry Multi-Regional Field Documentation Notes (2026)",
+        "Civic & Community Rites Guidelines Across Indian Metropolitan Centres"
+      ],
+      "disclaimer": "Informational guidance only: Customs vary significantly by family, community, and region. Purchasing from LastCry is never required to honour a deceased person properly.",
+      "publicationStatus": "PUBLISHED",
+      "isSampleData": true
+    },
+    {
+      "id": "art-2",
+      "title": "What Is Optional Versus Tradition-Dependent Across Indian Regions",
+      "slug": "what-is-optional-versus-tradition-dependent",
+      "summary": "An honest guide to regional variations across North, South, East, and West India—and why no single universal checklist applies to an entire religion.",
+      "contentSections": [
+        {
+          "heading": "Respecting Plurality Within Every Tradition",
+          "paragraphs": [
+            "India’s religious and cultural traditions are deeply plural. Even within the same religion, a family in Varanasi, a Tamil Iyer household in Chennai, a Nair family in Kerala, or a Bengali household in Kolkata may follow markedly different customs regarding textiles, earthen vessels, and mourning days.",
+            "Similarly, Sunni, Shia, and Dawoodi Bohra Muslim communities, or Roman Catholic, Syrian Orthodox, and Protestant Christian congregations, maintain distinct liturgical and material practices."
+          ]
+        },
+        {
+          "heading": "How LastCry Labels Regional Differences",
+          "paragraphs": [
+            "We never present a single kit as mandatory for an entire faith. Instead, each kit specifies its intended community and regional scope in plain language, along with notes written and reviewed by domain contributors."
+          ],
+          "bulletPoints": [
+            "Textiles: While unbleached white cotton is broadly customary, outer drape colours and lengths differ by region and family custom.",
+            "Vessels: Unglazed terracotta vs. copper or brass vessels vary by community and whether rites are held near a river ghat or an electric crematorium.",
+            "Flowers & Scents: Fragrant garlands are customary in many Hindu, Sikh, and Christian services, whereas in many Muslim households, bringing floral garlands is not practiced."
+          ]
+        }
+      ],
+      "applicableRegion": "Pan-India (North, South, East, West Comparisons)",
+      "applicableTradition": "Hindu, Muslim, Christian, Sikh & Buddhist Traditions",
+      "reviewerName": "LastCry Multi-Tradition Review Panel",
+      "reviewerCredentials": "Academic & Community Reviewers",
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "lastReviewedDate": "2026-10-01",
+      "relatedProductSlugs": [
+        "unglazed-terracotta-earthenware-vessel-copper-kalash",
+        "pure-sandalwood-billet-bhimseni-camphor-sesame-pack"
+      ],
+      "relatedKitSlugs": [
+        "antyeshti-immediate-preparation-essential-kit"
+      ],
+      "sources": [
+        "Comparative Ethnographic Survey of Indian Lifecycle & Last-Rites Customs"
+      ],
+      "disclaimer": "Informational guidance only: Always defer to the wishes of the bereaved family and their chosen community elders or officiants.",
+      "publicationStatus": "PUBLISHED",
+      "isSampleData": true
+    },
+    {
+      "id": "art-3",
+      "title": "Ordering from Another City or Abroad for a Family Member in India",
+      "slug": "ordering-from-another-city-for-a-family-member",
+      "summary": "Practical steps for coordinating a respectful delivery to a family home or prayer venue when you are travelling or living in another city.",
+      "contentSections": [
+        {
+          "heading": "Coordinating Delivery Without Burdening the Household",
+          "paragraphs": [
+            "When you are in another city or travelling home after a bereavement, sending essential supplies or a memorial portrait frame ahead of your arrival can relieve local relatives of errands. However, deliveries to a mourning household should never create confusion at the door.",
+            "At checkout, we recommend providing the phone number of a designated family coordinator, neighbour, or building security desk rather than calling the immediate bereaved parent or spouse directly."
+          ]
+        },
+        {
+          "heading": "Checking Realistic Delivery Windows by PIN Code",
+          "paragraphs": [
+            "Before placing an order, enter the destination 6-digit PIN code in the LastCry header or product page. We display only delivery estimates supported by our configured regional hubs—never fabricated same-hour promises."
+          ],
+          "bulletPoints": [
+            "Use the Delivery Instructions field to specify \"Leave with building security\" or \"Contact coordinator phone number on arrival.\"",
+            "All LastCry parcels are packed in plain, discreet kraft or oat-coloured boxes without loud external branding.",
+            "Invoices are sent digitally to the purchaser’s email; when ordering a condolence gift parcel, price tags are omitted from the recipient slip."
+          ]
+        }
+      ],
+      "applicableRegion": "Pan-India & Non-Resident Indian (NRI) Orders",
+      "applicableTradition": "All Traditions",
+      "reviewerName": "LastCry Operations & Family Care Desk",
+      "reviewerCredentials": "Fulfilment & Privacy Standards Team",
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "lastReviewedDate": "2026-10-03",
+      "relatedProductSlugs": [
+        "quiet-comfort-household-care-parcel-sympathy-card",
+        "handcrafted-solid-teakwood-brass-memorial-portrait-frame"
+      ],
+      "relatedKitSlugs": [
+        "universal-quiet-remembrance-prayer-meeting-table-kit"
+      ],
+      "sources": [
+        "LastCry Discreet Fulfilment & Packaging Standard v2.1"
+      ],
+      "disclaimer": "Delivery windows depend on destination PIN code coverage and dispatch cut-off times shown at checkout.",
+      "publicationStatus": "PUBLISHED",
+      "isSampleData": true
+    },
+    {
+      "id": "art-4",
+      "title": "Choosing a Respectful Memorial or Condolence Gift in Indian Households",
+      "slug": "choosing-a-memorial-or-condolence-gift",
+      "summary": "Etiquette and thoughtful guidelines on when to send flowers, when to send a quiet household care parcel, and what to write in a sympathy card.",
+      "contentSections": [
+        {
+          "heading": "Thoughtfulness Over Grandeur",
+          "paragraphs": [
+            "In Indian households, the days following a death bring many visitors, extended relatives, and quiet hours of sitting together. Unlike celebratory occasions, condolence gestures should be understated, practical, and sensitive to mourning customs.",
+            "Avoid ornate gift baskets, foil packaging, strong perfumes, or confectionery associated with festivals. Instead, consider a handwritten note on cotton paper, a quiet herbal infusion and sattvik nourishment parcel for the household, or white flowers where customary."
+          ]
+        },
+        {
+          "heading": "What to Write in a Sympathy Card",
+          "paragraphs": [
+            "Simple, sincere words are always remembered. Mentioning a specific quality or warm memory of the person who has passed away brings genuine comfort to family members reading the card later."
+          ],
+          "bulletPoints": [
+            "Keep messages concise and sincere: \"Thinking of your family and remembering [Name]’s kindness and warmth.\"",
+            "If sending to a household observing traditional mourning diets, ensure any food items are strictly vegetarian and free from celebratory sweets.",
+            "Consider gifting an archival remembrance register before a prayer meeting so guests can record their tributes."
+          ]
+        }
+      ],
+      "applicableRegion": "Pan-India",
+      "applicableTradition": "All Traditions",
+      "reviewerName": "LastCry Cultural Documentation Team",
+      "reviewerCredentials": "Multi-Regional Ethnographic Review Panel",
+      "reviewStatus": "REVIEWED_VERIFIED",
+      "lastReviewedDate": "2026-10-05",
+      "relatedProductSlugs": [
+        "quiet-comfort-household-care-parcel-sympathy-card",
+        "archival-linen-bound-condolence-remembrance-register",
+        "serene-white-chrysanthemum-mogra-eucalyptus-tribute"
+      ],
+      "relatedKitSlugs": [
+        "universal-quiet-remembrance-prayer-meeting-table-kit"
+      ],
+      "sources": [
+        "LastCry Bereavement Etiquette & Household Care Guide"
+      ],
+      "disclaimer": "Informational guidance only. A personal visit, phone call, or handwritten letter is always the most meaningful expression of sympathy.",
+      "publicationStatus": "PUBLISHED",
+      "isSampleData": true
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-customer-1",
+      "email": "ananya.sample@example.in",
+      "phone": "+91 98201 00101",
+      "fullName": "Ananya Deshmukh (Sample Customer)",
+      "passwordHash": "pbkdf2_sample_customer_hash",
+      "role": "CUSTOMER",
+      "permissions": [
+        "VIEW_OWN_ORDERS",
+        "MANAGE_OWN_PROFILE",
+        "MANAGE_OWN_ADDRESSES"
+      ],
+      "savedAddresses": [
+        {
+          "id": "addr-1",
+          "label": "Pune Family Residence",
+          "recipient": "Ananya Deshmukh",
+          "phone": "+91 98201 00101",
+          "line1": "Flat 402, Shanti Niketan CHSL, Prabhat Road",
+          "line2": "Deccan Gymkhana",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "pinCode": "411004",
+          "isDefault": true
+        },
+        {
+          "id": "addr-2",
+          "label": "Mumbai Parent Residence",
+          "recipient": "Suresh Deshmukh",
+          "phone": "+91 98201 00999",
+          "line1": "12B, Belvedere Court, Mahalaxmi",
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "pinCode": "400011",
+          "isDefault": false
+        }
+      ],
+      "wishlistProductIds": [
+        "prod-teak-memorial-frame",
+        "prod-remembrance-book"
+      ],
+      "consentPreferences": {
+        "orderUpdatesEmail": true,
+        "orderUpdatesSms": true,
+        "guidanceNewsletterOptIn": false,
+        "bereavementPrivacyAck": true,
+        "updatedAt": "2026-10-15T10:00:00Z"
+      },
+      "createdAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "usr-admin-1",
+      "email": "admin@lastcry.in",
+      "phone": "+91 22 4000 1100",
+      "fullName": "Siddharth Rao (Sandbox Operations Admin)",
+      "passwordHash": "pbkdf2_sandbox_admin_hash",
+      "role": "ADMIN",
+      "permissions": [
+        "MANAGE_PRODUCTS",
+        "MANAGE_INVENTORY",
+        "MANAGE_ORDERS",
+        "APPROVE_REFUNDS",
+        "MANAGE_SUPPLIERS",
+        "MANAGE_DELIVERY_ZONES",
+        "MANAGE_CONTENT",
+        "VIEW_AUDIT_LOGS"
+      ],
+      "savedAddresses": [],
+      "wishlistProductIds": [],
+      "consentPreferences": {
+        "orderUpdatesEmail": true,
+        "orderUpdatesSms": false,
+        "guidanceNewsletterOptIn": false,
+        "bereavementPrivacyAck": true,
+        "updatedAt": "2026-09-01T10:00:00Z"
+      },
+      "createdAt": "2026-09-01T10:00:00Z"
+    }
+  ],
+  "supportTickets": [
+    {
+      "id": "tkt-101",
+      "ticketNumber": "TKT-2026-041",
+      "userId": "usr-customer-1",
+      "name": "Vikramaditya Nair (Sample Ticket)",
+      "email": "vikram.sample@example.in",
+      "phone": "+91 98112 00202",
+      "orderNumber": "LC-2026-1002",
+      "category": "DELIVERY_QUERY",
+      "subject": "Requesting gate drop-off coordination for Order LC-2026-1002",
+      "message": "Could the courier call the secondary coordinator number 15 minutes before reaching Safdarjung Enclave?",
+      "status": "OPEN",
+      "createdAt": "2026-10-24T15:00:00Z",
+      "updatedAt": "2026-10-24T15:00:00Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "aud-1792961734258",
+      "timestamp": "2026-10-25T20:55:34.258Z",
+      "actorEmail": "test-runner@lastcry.in",
+      "actorRole": "ADMIN",
+      "action": "SEED_DATA_RESET",
+      "entityType": "Database",
+      "entityId": "ALL",
+      "summary": "Development seed data reset to clean baseline."
+    },
+    {
+      "id": "aud-1",
+      "timestamp": "2026-10-01T10:00:00Z",
+      "actorEmail": "admin@lastcry.in",
+      "actorRole": "ADMIN",
+      "action": "PRODUCT_PUBLICATION",
+      "entityType": "RitualKit",
+      "entityId": "kit-antyeshti-essential",
+      "summary": "Published Antyeshti Essential Kit v3 after cultural review sign-off by Dr. Arvind Shastri."
+    },
+    {
+      "id": "aud-2",
+      "timestamp": "2026-10-20T08:15:00Z",
+      "actorEmail": "SYSTEM_WEBHOOK",
+      "actorRole": "SYSTEM",
+      "action": "ORDER_STATUS_UPDATE",
+      "entityType": "Order",
+      "entityId": "LC-2026-1001",
+      "summary": "Verified sandbox payment signature and transitioned order LC-2026-1001 to CONFIRMED / PAID."
+    },
+    {
+      "id": "aud-3",
+      "timestamp": "2026-10-24T11:30:00Z",
+      "actorEmail": "admin@lastcry.in",
+      "actorRole": "ADMIN",
+      "action": "INVENTORY_ADJUSTMENT",
+      "entityType": "Product",
+      "entityId": "prod-brass-akhand-diya",
+      "summary": "Adjusted stock quantity of Heavy Matte Brass Akhand Jyoti Oil Lamp to 4 units (Low Stock alert triggered)."
+    }
+  ]
+}

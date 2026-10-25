@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#F6F3EC"/>
+  <rect x="32" y="32" width="736" height="536" rx="6" fill="#F1ECE2" stroke="#E0D9CC"/>
+  <ellipse cx="400" cy="445" rx="230" ry="32" fill="#E3DDD1"/>
+  <rect x="220" y="330" width="360" height="48" rx="6" fill="#FDFBF7" stroke="#D5CDC0" stroke-width="2"/>
+  <rect x="236" y="284" width="328" height="48" rx="6" fill="#FAF7F0" stroke="#D5CDC0" stroke-width="2"/>
+  <rect x="254" y="240" width="292" height="46" rx="6" fill="#FDFBF7" stroke="#D5CDC0" stroke-width="2"/>
+  <line x1="400" y1="240" x2="400" y2="378" stroke="#B08D57" stroke-width="3"/>
+  <circle cx="400" cy="308" r="8" fill="#B08D57"/>
+  <text x="400" y="515" text-anchor="middle" fill="#5C5852" font-family="sans-serif" font-size="13" letter-spacing="1.5">UNBLEACHED HANDSPUN COTTON TEXTILE · STUDIO PLACEHOLDER</text>
+</svg>

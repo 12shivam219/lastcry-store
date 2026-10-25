@@ -1,0 +1,6 @@
+{
+  "name": "LastCry — Thoughtful Essentials & Dignified Goodbyes",
+  "description": "India-first online store for end-of-life essentials, curated tradition-specific ritual kits, memorial products, condolence gifts, and verified local service referrals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

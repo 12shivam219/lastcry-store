@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#F5F1E9"/>
+  <rect x="32" y="32" width="736" height="536" rx="6" fill="#EFEAE0" stroke="#DED6C8"/>
+  <ellipse cx="400" cy="450" rx="240" ry="30" fill="#E0D8C9"/>
+  <!-- Terracotta Matka / Kalash -->
+  <ellipse cx="330" cy="360" rx="75" ry="70" fill="#C69472" stroke="#9E6E4E" stroke-width="2"/>
+  <rect x="292" y="278" width="76" height="22" rx="4" fill="#B38262" stroke="#9E6E4E" stroke-width="2"/>
+  <!-- Copper / Brass Vessel -->
+  <path d="M455 320 L525 320 L540 420 L440 420 Z" fill="#C59F65" stroke="#9A7742" stroke-width="2"/>
+  <!-- Cotton & Wood Bundle -->
+  <rect x="370" y="400" width="110" height="26" rx="4" fill="#FAF7F2" stroke="#D1C8B8" stroke-width="2"/>
+  <text x="400" y="515" text-anchor="middle" fill="#5C5852" font-family="sans-serif" font-size="13" letter-spacing="1.5">CURATED RITUAL KIT &amp; EARTHENWARE · STUDIO PLACEHOLDER</text>
+</svg>

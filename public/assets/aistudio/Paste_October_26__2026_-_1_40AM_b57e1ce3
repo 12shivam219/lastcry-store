@@ -1,0 +1,1569 @@
+Act as a senior product designer, UX researcher, full-stack architect, e-commerce engineer, security engineer, and QA engineer.
+
+Build a complete, polished, responsive e-commerce website called LastCry.
+
+LastCry is an India-first online store for end-of-life essentials, funeral and last-rites products, tradition-specific kits, memorial products, condolence gifts, and related services.
+
+The business concept is inspired by the convenience of focused retail platforms such as FirstCry, but LastCry must have its own independent brand identity, visual language, copywriting, information architecture, and customer experience.
+
+Do not copy another company's branding, layouts, illustrations, product descriptions, or assets.
+
+Brand mission
+
+Help families find the essentials they need after a death through a dignified, trustworthy, culturally informed, and convenient online shopping experience.
+
+Proposed tagline
+
+"Thoughtful essentials. Dignified goodbyes."
+
+Primary market
+
+India initially, with a technical architecture that can support additional countries, currencies, languages, and fulfilment regions later.
+
+Core business goals
+
+Sell relevant products through an intuitive online storefront.
+
+Offer curated kits for different religious, cultural, and regional traditions.
+
+Provide transparent prices, stock availability, and delivery estimates.
+
+Allow customers to shop for individual products or complete kits.
+
+Provide memorial and condolence products.
+
+Enable customers to find verified local service providers in supported areas.
+
+Provide an admin dashboard for products, inventory, orders, suppliers, delivery zones, and customer support.
+
+Establish trust through accuracy, discretion, transparent pricing, and reliable fulfilment.
+
+Build a functional application, not merely a static design or a collection of non-working screens.
+
+2. DEVELOPMENT PROCESS
+
+Before coding:
+
+Inspect the existing repository, framework, package manager, installed dependencies, routes, and environment configuration.
+
+Reuse an existing application structure when appropriate rather than replacing working code unnecessarily.
+
+Create a concise implementation plan.
+
+Identify missing integrations and credentials.
+
+Implement the application in logical phases.
+
+Run the available lint, type-check, test, and build commands.
+
+Fix errors introduced by the implementation.
+
+Provide setup instructions, environment-variable documentation, database migrations, seed data, and a summary of completed and incomplete features.
+
+Do not claim that a payment gateway, email service, database, or external API is connected unless it has actually been configured and tested.
+
+If a credential is missing, implement a clean integration interface and document what is needed. Never fabricate successful payments, bookings, deliveries, or external service responses.
+
+3. BRAND IDENTITY AND VISUAL DESIGN
+
+Create an elegant, calm, premium, minimal, and reassuring visual identity.
+
+The website must feel respectful and contemporary. It must not feel frightening, excessively religious, clinical, cheap, or like a generic funeral-services directory.
+
+Design direction
+
+Primary background: warm ivory or off-white.
+
+Main text: deep charcoal.
+
+Supporting surfaces: soft beige and light neutral gray.
+
+Accent: muted sage or restrained forest green.
+
+Optional secondary accent: subtle warm bronze.
+
+Typography: a readable modern sans-serif, with a refined heading style.
+
+Generous whitespace.
+
+Clear product photography.
+
+Subtle borders and understated shadows.
+
+Consistent spacing, radii, buttons, and form elements.
+
+Smooth, restrained transitions.
+
+Accessible contrast and visible keyboard focus.
+
+Avoid excessive animations, dramatic imagery, black-heavy layouts, large decorative crosses, religious symbols used indiscriminately, and aggressive promotional banners.
+
+Use original brand assets or properly licensed imagery. Never use an image merely because it depicts a product category if the actual product or ritual is materially different.
+
+Create a simple LastCry wordmark with a restrained, memorable symbol if appropriate. Keep the logo text readable at mobile sizes.
+
+Use real product imagery wherever possible. If the project starts without assets, use clearly identified temporary placeholders and document the replacement process.
+
+The visual quality should be comparable to a carefully designed modern specialty e-commerce brand.
+
+4. INFORMATION ARCHITECTURE
+
+Create these public routes:
+
+/
+
+/shop
+
+/shop/essentials
+
+/shop/ritual-kits
+
+/shop/memorials
+
+/shop/condolence-gifts
+
+/categories/[slug]
+
+/product/[slug]
+
+/ritual-kits/[slug]
+
+/services
+
+/services/[slug]
+
+/guidance
+
+/guidance/[slug]
+
+/about
+
+/contact
+
+/faq
+
+/shipping-policy
+
+/returns-refunds
+
+/privacy-policy
+
+/terms
+
+/grievance-redressal
+
+/cart
+
+/checkout
+
+/order-confirmation/[orderNumber]
+
+/track-order
+
+/account
+
+/account/orders
+
+/account/addresses
+
+/wishlist
+
+Create a separate protected admin area:
+
+/admin
+
+/admin/products
+
+/admin/categories
+
+/admin/orders
+
+/admin/inventory
+
+/admin/suppliers
+
+/admin/delivery-zones
+
+/admin/customers
+
+/admin/service-providers
+
+/admin/content
+
+/admin/coupons
+
+/admin/reviews
+
+/admin/support
+
+/admin/settings
+
+/admin/audit-logs
+
+Route names may be adjusted to match the existing framework, but preserve equivalent functionality and a clear URL structure.
+
+Do not expose private customer data or administrative interfaces to unauthorized users.
+
+5. HEADER AND NAVIGATION
+
+Build a responsive, accessible header.
+
+Desktop navigation:
+
+LastCry logo.
+
+Shop Essentials.
+
+Ritual Kits.
+
+Memorials.
+
+Condolence Gifts.
+
+Guidance.
+
+Find Local Services.
+
+Search.
+
+Account.
+
+Wishlist.
+
+Shopping cart with item count.
+
+Include a compact location or PIN-code selector.
+
+Mobile navigation must use an accessible menu and keep the most important shopping actions easy to reach.
+
+The header must not overwhelm the content. Use a restrained sticky-header treatment only if it improves usability.
+
+Include a discreet help/contact option, without implying that emergency fulfilment or round-the-clock support exists unless actually staffed.
+
+6. HOMEPAGE
+
+Create a complete homepage with these sections.
+
+A. Hero
+
+Headline:
+"Everything you need, thoughtfully brought together."
+
+Supporting copy:
+"Find last-rites essentials, thoughtfully curated kits, memorial products, and helpful guidance in one trusted place."
+
+Primary CTA:
+"Shop Essentials"
+
+Secondary CTA:
+"Explore Ritual Kits"
+
+Use a tasteful, neutral still-life image featuring suitable textiles, flowers, or memorial products. Do not use distressing or graphic imagery.
+
+B. Quick shopping choices
+
+Provide clear cards for:
+
+Essential Products.
+
+Ritual Kits.
+
+Memorial Products.
+
+Condolence Gifts.
+
+Find Local Services.
+
+Every card must navigate to a real page.
+
+C. Shop by tradition
+
+Create configurable collections for:
+
+Hindu traditions.
+
+Muslim traditions.
+
+Christian traditions.
+
+Sikh traditions.
+
+Buddhist traditions.
+
+Other regional and cultural traditions.
+
+These labels are navigation aids, not assertions that all members of a religion follow the same practices.
+
+Allow customers to browse all products without selecting a religion. Do not require customers to disclose their religious identity.
+
+Each collection must be reviewed by a knowledgeable contributor before being published. Clearly distinguish essential, optional, and region-dependent products.
+
+D. Featured products
+
+Show products from the database with:
+
+Image.
+
+Product name.
+
+Price in INR.
+
+Availability.
+
+Relevant variant information.
+
+Quick-view or product-page link.
+
+Add-to-cart action.
+
+Never display fabricated customer ratings, fake sales, fake scarcity, or invented reviews.
+
+E. Featured kits
+
+Display curated kits with:
+
+Clear kit name.
+
+Tradition or intended use.
+
+Item count.
+
+Full contents.
+
+Price.
+
+Optional additions.
+
+Availability and delivery estimate.
+
+F. How it works
+
+Three simple steps:
+
+Find what you need.
+
+Review the contents and delivery options.
+
+Order with confidence.
+
+G. Trust and transparency
+
+Explain only verifiable practices:
+
+Transparent pricing.
+
+Clearly listed kit contents.
+
+Product information reviewed by appropriate contributors.
+
+Reliable fulfilment processes.
+
+Accessible customer support.
+
+Privacy-conscious handling of order information.
+
+Do not invent certifications, partnerships, testimonials, years in business, or trust badges.
+
+H. Guidance centre
+
+Show links to useful articles such as:
+
+Planning a funeral-related purchase.
+
+Understanding the contents of a ritual kit.
+
+What is optional versus tradition-dependent.
+
+Ordering from another city for a family member.
+
+Choosing a memorial or condolence gift.
+
+Content must be informational and reviewed where cultural or legal accuracy matters.
+
+I. Footer
+
+Include customer support, policies, business details, newsletter preferences, social links only when configured, and the applicable grievance-contact information.
+
+7. PRODUCT CATALOGUE
+
+Create a database-driven catalogue rather than hardcoding products in page components.
+
+Initial product categories
+
+Last-rites essentials.
+
+Shrouds and customary textiles.
+
+Tradition-specific ritual supplies.
+
+Curated ritual kits.
+
+Funeral and memorial flowers.
+
+Condolence cards and gifts.
+
+Memorial frames and printed photographs.
+
+Remembrance books and keepsakes.
+
+Relevant non-regulated accessories.
+
+Optional services and service referrals.
+
+Only publish products that have verified descriptions, legitimate suppliers, and appropriate fulfilment arrangements.
+
+Do not automatically list hazardous, restricted, or regulated products. Add compliance checks for any product that may be subject to specific restrictions.
+
+Product data model
+
+Each product should support:
+
+ID.
+
+Name.
+
+Slug.
+
+SKU.
+
+Short description.
+
+Full description.
+
+Category.
+
+Optional tradition tags.
+
+Product images.
+
+Selling price.
+
+MRP when applicable and accurately represented.
+
+Cost price, visible only to authorized staff.
+
+GST/tax configuration where applicable.
+
+Stock quantity.
+
+Stock status.
+
+Weight and package dimensions.
+
+Variant options.
+
+Supplier.
+
+Delivery eligibility.
+
+Estimated dispatch time.
+
+Return eligibility.
+
+Kit contents where relevant.
+
+Optional versus essential item designation where applicable.
+
+Product information review status.
+
+Publication status.
+
+SEO title and description.
+
+Created and updated timestamps.
+
+Catalogue functionality
+
+Implement:
+
+Search by product name and relevant keywords.
+
+Category filters.
+
+Tradition filters.
+
+Price-range filters.
+
+Availability filters.
+
+Sorting by relevance, price, and newest.
+
+Pagination or efficient incremental loading.
+
+Empty states.
+
+Loading states.
+
+Error states.
+
+Mobile-friendly filter controls.
+
+Ensure all filters operate on real catalogue data.
+
+8. PRODUCT DETAIL PAGES
+
+Each product page should include:
+
+Product gallery.
+
+Product title.
+
+Price.
+
+Availability.
+
+Variant selection.
+
+Quantity selector.
+
+Add-to-cart button.
+
+Product description.
+
+Contents and specifications.
+
+Materials and dimensions where relevant.
+
+Tradition or regional notes where verified.
+
+Optional and essential designations where applicable.
+
+Delivery eligibility and estimate based on the entered PIN code.
+
+Return and refund information.
+
+Supplier or seller information as legally required.
+
+Related products.
+
+Relevant kit suggestions.
+
+Display clear warnings when an item is not available in the customer's delivery area.
+
+Do not imply that a product is religiously mandatory unless the claim has been verified and accurately qualified.
+
+9. RITUAL KIT BUILDER
+
+This is one of the platform's most important features.
+
+Allow customers to:
+
+Choose a published kit.
+
+Read the complete list of included items.
+
+See the quantity of each item.
+
+View verified notes on intended use.
+
+Identify optional additions.
+
+Add or remove eligible optional items.
+
+See an updated total price.
+
+Check local availability.
+
+Add the complete selection to the cart.
+
+Administrators must be able to manage kit definitions and kit contents without modifying application code.
+
+Each kit should have:
+
+Name and description.
+
+Intended tradition or use.
+
+Regional applicability.
+
+Review status.
+
+Included products and quantities.
+
+Optional products.
+
+Kit pricing rules.
+
+Availability rules.
+
+Version and update history.
+
+Do not use a single universal checklist for an entire religion. Support regional and community differences.
+
+Only publish reviewed kits. Unreviewed drafts must never appear in the public catalogue.
+
+10. SEARCH, CART, AND WISHLIST
+
+Search
+
+Provide fast search with:
+
+Product suggestions.
+
+Relevant categories.
+
+Typo tolerance where supported.
+
+Clear no-results state.
+
+Keyboard navigation.
+
+Accessible result announcements.
+
+Do not expose private order or customer data through search.
+
+Cart
+
+Implement:
+
+Add product.
+
+Update quantity.
+
+Remove product.
+
+Select variants.
+
+Display kit contents.
+
+Recalculate subtotals.
+
+Display applicable delivery fees and taxes.
+
+Apply valid coupons.
+
+Display the final total.
+
+Preserve the cart appropriately across navigation and sessions.
+
+Validate prices, stock, coupons, delivery charges, and totals on the server. Never trust client-supplied prices.
+
+Wishlist
+
+Allow authenticated customers to save products for later.
+
+Do not use sensitive browsing history to target grief-related advertising.
+
+11. CHECKOUT AND PAYMENTS
+
+Build a straightforward, mobile-friendly checkout.
+
+Checkout fields
+
+Collect only the information needed to process an order:
+
+Customer name.
+
+Email or phone, as required by the chosen order workflow.
+
+Delivery address.
+
+PIN code.
+
+City and state.
+
+Optional delivery instructions.
+
+Selected delivery method.
+
+Payment method.
+
+Avoid asking for the deceased person's name, cause of death, or other sensitive information unless a specific service genuinely requires it. If such information is needed, explain why and request it separately with appropriate access restrictions.
+
+Payment integration
+
+Use a suitable payment provider for India, such as Razorpay, or another provider selected by the business owner.
+
+Implement a secure integration with:
+
+Server-created payment orders.
+
+Server-side payment verification.
+
+Signed webhook verification.
+
+Idempotent payment processing.
+
+Duplicate-payment protection.
+
+Correct order/payment status transitions.
+
+Clear failure and retry flows.
+
+Refund workflow where supported.
+
+Never store raw card information.
+
+Never mark an order as paid merely because the browser reports success.
+
+If payment credentials are not configured, provide a clearly marked sandbox or development mode. Never simulate real payment success in production.
+
+Order lifecycle
+
+Support states such as:
+
+Pending payment.
+
+Payment failed.
+
+Confirmed.
+
+Processing.
+
+Ready for dispatch.
+
+Shipped.
+
+Delivered.
+
+Cancelled.
+
+Refund pending.
+
+Refunded.
+
+Use a consistent transition model and record significant status changes.
+
+12. DELIVERY AND FULFILMENT
+
+Implement a configurable delivery system.
+
+PIN-code coverage
+
+Administrators can configure:
+
+Supported PIN codes or delivery regions.
+
+Eligible products.
+
+Delivery methods.
+
+Delivery charges.
+
+Dispatch cut-off times.
+
+Estimated delivery windows.
+
+Supplier-specific service areas.
+
+Show only estimates supported by the available delivery configuration.
+
+Do not promise same-day or express delivery unless a real fulfilment partner confirms the capability.
+
+Order fulfilment
+
+Provide:
+
+Order preparation.
+
+Inventory reservation.
+
+Supplier assignment where appropriate.
+
+Dispatch tracking.
+
+Shipment status updates.
+
+Delivery confirmation.
+
+Cancellation handling.
+
+Refund coordination.
+
+Support direct fulfilment by approved suppliers as a future-compatible option.
+
+Prevent overselling through appropriate inventory checks and atomic updates.
+
+13. CUSTOMER ACCOUNT
+
+Provide a secure account area with:
+
+Registration and login.
+
+Password reset or a verified passwordless login flow.
+
+Profile management.
+
+Saved addresses.
+
+Order history.
+
+Order details.
+
+Shipment tracking.
+
+Wishlist.
+
+Support requests.
+
+Consent and communication preferences.
+
+Account deletion request.
+
+Offer guest checkout if it can be implemented securely.
+
+Use secure session management and appropriate protections against account takeover.
+
+Do not require account creation merely to browse products.
+
+14. ADMIN DASHBOARD
+
+Build a functional, protected admin interface.
+
+Dashboard overview
+
+Show actual data from the database:
+
+Total orders.
+
+Orders awaiting processing.
+
+Revenue from completed paid orders.
+
+Pending fulfilment.
+
+Low-stock products.
+
+Refunds requiring attention.
+
+Recent orders.
+
+Supplier fulfilment issues.
+
+Do not include fake analytics in production.
+
+Product management
+
+Administrators can:
+
+Create products.
+
+Edit descriptions and prices.
+
+Upload product images.
+
+Configure variants.
+
+Update stock.
+
+Assign categories.
+
+Configure delivery eligibility.
+
+Publish and unpublish products.
+
+Review and approve culturally sensitive product descriptions.
+
+Order management
+
+Administrators can:
+
+Search and filter orders.
+
+Open order details.
+
+View payment status.
+
+Assign fulfilment.
+
+Update permitted order states.
+
+Add internal notes.
+
+Process eligible cancellations and refunds.
+
+Record tracking information.
+
+Export appropriate order data.
+
+Use role-based access control for financial operations and sensitive customer information.
+
+Supplier management
+
+Store:
+
+Supplier details.
+
+Contact information.
+
+Product associations.
+
+Fulfilment regions.
+
+Dispatch performance.
+
+Stock feeds where supported.
+
+Contract or verification status.
+
+Operational notes.
+
+Do not claim a supplier has been verified until the actual verification workflow has been completed.
+
+Delivery-zone management
+
+Administrators must be able to configure supported locations, delivery charges, product restrictions, and estimates.
+
+Content management
+
+Manage:
+
+Homepage sections.
+
+Guidance articles.
+
+FAQs.
+
+Product notices.
+
+Kit checklists.
+
+Policy pages.
+
+SEO metadata.
+
+Publish only reviewed religious and cultural guidance.
+
+Audit logs
+
+Record significant actions such as:
+
+Price changes.
+
+Inventory adjustments.
+
+Refund approvals.
+
+Order status overrides.
+
+Role and permission changes.
+
+Product publication.
+
+Supplier verification changes.
+
+Do not put passwords, payment secrets, or unnecessary sensitive customer information in audit logs.
+
+15. LOCAL SERVICE DIRECTORY — PHASE 2
+
+Design a future-compatible directory for relevant local service providers.
+
+Potential service categories:
+
+Funeral directors.
+
+Authorized funeral transport providers.
+
+Florists.
+
+Memorial printers.
+
+Relevant ceremony or memorial event providers.
+
+Cemetery and crematorium information or booking referrals where supported.
+
+Appropriate grief-support organizations.
+
+Each listing should support:
+
+Provider name.
+
+Service category.
+
+Service area.
+
+Public contact details.
+
+Published price information where available.
+
+Availability information where integrated.
+
+Verification status.
+
+Customer-facing description.
+
+Booking or referral workflow.
+
+Do not invent provider listings, credentials, ratings, availability, or prices.
+
+Service-provider claims must be reviewed and verified before they are presented as verified.
+
+If a live integration is unavailable, offer a clearly labelled contact or enquiry workflow rather than fake instant booking.
+
+Make service listings, payments, referrals, and provider verification independently configurable.
+
+16. GUIDANCE AND CONTENT MANAGEMENT
+
+Create a calm, readable guidance centre.
+
+Article structure:
+
+Title.
+
+Summary.
+
+Main content.
+
+Applicable region or tradition.
+
+Author or reviewer credentials where verified.
+
+Last-reviewed date.
+
+Related products, only when relevant.
+
+Sources where appropriate.
+
+Clear informational disclaimer.
+
+Potential topics:
+
+How to choose a suitable kit.
+
+How to understand kit contents.
+
+How regional practices differ.
+
+How to arrange a delivery for another family member.
+
+How to choose a condolence gift.
+
+How to prepare a memorial display.
+
+Content must not provide fabricated religious authority or legal advice.
+
+Never suggest that purchasing from LastCry is required to honour a deceased person properly.
+
+17. DATABASE AND ARCHITECTURE
+
+Prefer a maintainable, typed, server-rendered web architecture where appropriate.
+
+Recommended default stack for a new project:
+
+Next.js with TypeScript.
+
+React.
+
+Tailwind CSS.
+
+A reusable accessible component system.
+
+PostgreSQL.
+
+Prisma or an equivalent well-maintained ORM.
+
+A secure authentication library.
+
+A supported image storage solution.
+
+A transactional email provider.
+
+A payment gateway adapter.
+
+Automated testing.
+
+Use the existing repository's stack if it is already established and suitable.
+
+Avoid adding unnecessary dependencies or introducing a complex microservice architecture for the initial MVP.
+
+Core database entities
+
+Create appropriate schemas and migrations for:
+
+User.
+
+Role and permissions.
+
+Address.
+
+Category.
+
+Product.
+
+ProductVariant.
+
+ProductImage.
+
+Inventory.
+
+Supplier.
+
+SupplierProduct.
+
+RitualKit.
+
+RitualKitItem.
+
+TraditionTag.
+
+ProductReview.
+
+Cart.
+
+CartItem.
+
+WishlistItem.
+
+Coupon.
+
+Order.
+
+OrderItem.
+
+Payment.
+
+Refund.
+
+Shipment.
+
+DeliveryZone.
+
+ServiceProvider.
+
+ServiceListing.
+
+ServiceEnquiry.
+
+ContentArticle.
+
+SupportTicket.
+
+ConsentRecord.
+
+AuditLog.
+
+Adjust the schema where justified, but preserve data integrity and clear relationships.
+
+Use decimal-safe money types and explicit currency codes.
+
+Define unique constraints, foreign keys, indexes, timestamps, and appropriate deletion behavior.
+
+Use database transactions for operations that must succeed or fail together.
+
+Separate payment status from fulfilment status.
+
+Use soft deletion or archival for business records that must be retained for legitimate legal or accounting purposes.
+
+18. SECURITY AND PRIVACY
+
+Implement security as a core requirement, not a final styling task.
+
+Validate all incoming data on the server.
+
+Enforce authorization on every protected operation.
+
+Protect admin routes and server actions.
+
+Use secure cookies and session controls.
+
+Protect against CSRF where applicable.
+
+Prevent injection attacks and unsafe rendering.
+
+Apply rate limits to login, password reset, contact, and checkout endpoints.
+
+Verify payment signatures and webhooks.
+
+Keep secrets in environment variables.
+
+Never expose private keys in frontend code.
+
+Avoid logging payment credentials or unnecessary personal information.
+
+Use least-privilege database access.
+
+Restrict access to customer addresses and order records.
+
+Use secure image-upload validation and file limits.
+
+Configure appropriate security headers.
+
+Use backups and a documented recovery procedure.
+
+Provide a clear privacy notice and consent controls.
+
+Implement retention and deletion workflows consistent with applicable obligations.
+
+Collect the minimum data necessary to fulfil orders.
+
+Do not sell sensitive customer information or use bereavement-related details for targeted advertising.
+
+Do not add third-party advertising pixels or behavioural tracking by default.
+
+Implement the applicable Indian privacy, consumer protection, e-commerce, tax, and packaged-product requirements after professional review. Do not represent a generic implementation as a legal compliance certification.
+
+19. SEO AND PERFORMANCE
+
+Implement:
+
+Server-rendered product and category pages where appropriate.
+
+Unique metadata for each product and category.
+
+Canonical URLs.
+
+XML sitemap.
+
+robots.txt.
+
+Open Graph metadata.
+
+Appropriate product structured data.
+
+Breadcrumb structured data.
+
+Organization structured data using only genuine business information.
+
+Descriptive image alt text.
+
+Optimized image formats.
+
+Responsive image sizes.
+
+Lazy loading for below-the-fold images.
+
+Correct image priority for the actual hero image.
+
+Efficient database queries.
+
+Pagination.
+
+Sensible caching and invalidation.
+
+Accessible semantic HTML.
+
+Reduced-motion support.
+
+Do not index private account, checkout, cart, admin, or other sensitive pages.
+
+Do not generate fake review schema, fake ratings, invented business addresses, or inaccurate product availability.
+
+Aim for strong Core Web Vitals and good Lighthouse performance without compromising checkout reliability or accessibility.
+
+20. ACCESSIBILITY AND RESPONSIVE DESIGN
+
+Support desktop, tablet, and mobile screens.
+
+Target WCAG 2.2 AA accessibility practices where feasible.
+
+Include:
+
+Keyboard-operable navigation.
+
+Visible focus states.
+
+Correct heading hierarchy.
+
+Accessible form labels.
+
+Helpful validation messages.
+
+Sufficient color contrast.
+
+Screen-reader-friendly status updates.
+
+Accessible dialogs and menus.
+
+Descriptive buttons.
+
+Reduced motion.
+
+Touch-friendly controls.
+
+Responsive product galleries.
+
+Usable checkout forms on narrow screens.
+
+Test common viewport widths, including 360px, 390px, 768px, 1024px, and wide desktop screens.
+
+Avoid horizontal overflow and tiny tap targets.
+
+21. SEED DATA AND DEMO MODE
+
+Provide development seed data for:
+
+Categories.
+
+Sample products.
+
+Sample variants.
+
+A small number of example ritual kits.
+
+Example delivery zones.
+
+Example articles.
+
+Example suppliers.
+
+Example service listings clearly marked as demo data.
+
+A small number of sample orders.
+
+All demo data must be explicitly identifiable as sample content.
+
+Use realistic but non-misleading prices and descriptions for local development. Never represent these as verified market prices.
+
+Do not create fake customer testimonials or fabricated sales statistics.
+
+Provide an easy way to reset development seed data.
+
+Do not create an unsecured default production administrator account. Document a secure initial administrator bootstrap procedure.
+
+22. TESTING REQUIREMENTS
+
+Write and run appropriate tests.
+
+Unit tests
+
+Test:
+
+Price calculations.
+
+Tax and delivery calculations.
+
+Coupon validation.
+
+Cart calculations.
+
+Kit composition.
+
+Inventory availability.
+
+Order status transitions.
+
+Permission checks.
+
+Integration tests
+
+Test:
+
+Product retrieval.
+
+Cart updates.
+
+Checkout validation.
+
+Order creation.
+
+Payment webhook verification.
+
+Inventory reservation.
+
+Cancellation and refunds.
+
+Admin product management.
+
+Access control.
+
+End-to-end tests
+
+Cover:
+
+Browse the homepage.
+
+Search for a product.
+
+Open a product detail page.
+
+Add a product to the cart.
+
+Change quantity.
+
+Complete a test checkout.
+
+Confirm the resulting order state.
+
+View order details.
+
+Confirm an unauthorized user cannot access admin routes.
+
+Confirm an administrator can manage products.
+
+Verify mobile navigation and checkout usability.
+
+Verify that payment failures do not create paid orders.
+
+Use test payment credentials and sandbox services only for testing.
+
+23. REQUIRED USER EXPERIENCE DETAILS
+
+No broken links.
+
+No non-functional buttons.
+
+No fake live availability.
+
+No fabricated delivery promises.
+
+No misleading countdown timers.
+
+No dark patterns.
+
+No forced religious identification.
+
+No insensitive marketing copy.
+
+No unverified claims about ritual requirements.
+
+No invented reviews or supplier certifications.
+
+No unexpected checkout fees.
+
+No placeholder text on finished production-facing pages.
+
+No secret credentials committed to source control.
+
+No unprotected administrative actions.
+
+Provide useful loading, empty, success, and failure states for every major workflow.
+
+All visible navigation, forms, filters, product actions, and admin operations must be connected to working functionality or explicitly marked as not yet available.
+
+24. IMPLEMENTATION PHASES
+
+Build in these phases.
+
+Phase 1 — Working MVP
+
+Implement:
+
+Brand design system.
+
+Responsive homepage.
+
+Product catalogue.
+
+Product detail pages.
+
+Categories and filters.
+
+Tradition-specific collections.
+
+Curated ritual kits.
+
+Cart and wishlist.
+
+Checkout.
+
+Payment adapter.
+
+Customer orders.
+
+Admin authentication and role-based access.
+
+Product and inventory management.
+
+Order management.
+
+Delivery-zone configuration.
+
+Essential policies and guidance.
+
+Database migrations and seed data.
+
+Basic automated tests.
+
+Phase 2 — Operations and growth
+
+Add:
+
+Supplier fulfilment integrations.
+
+Improved stock synchronisation.
+
+Shipment tracking.
+
+Customer notifications.
+
+Reviews with purchase verification.
+
+Coupons and promotions.
+
+Advanced catalogue search.
+
+Service-provider directory.
+
+Service enquiries and supported booking integrations.
+
+Business-to-business ordering.
+
+Phase 3 — Expansion
+
+Add only when justified by demand:
+
+Multiple languages.
+
+Regional storefronts.
+
+Additional payment methods.
+
+Multi-currency support.
+
+International shipping and country-specific compliance.
+
+Advanced supplier marketplace.
+
+Memorial personalisation.
+
+Digital remembrance services.
+
+Analytics and reporting.
+
+Do not block a working Phase 1 store on features planned for later phases.
+
+25. DEFINITION OF DONE
+
+The project is complete for the MVP only when:
+
+The application runs locally using documented commands.
+
+Database migrations apply successfully.
+
+Seed data can be loaded.
+
+The homepage and product catalogue render correctly.
+
+Search and filtering work.
+
+Product details and kit contents are accurate to the seed data.
+
+Cart calculations are correct.
+
+Checkout validation works.
+
+Payment success and failure are handled safely in the configured environment.
+
+Orders are stored and visible to authorized administrators.
+
+Inventory and delivery rules are enforced.
+
+Unauthorized users cannot access protected admin functionality.
+
+Product and order management work.
+
+Responsive layouts are usable.
+
+Key accessibility checks pass.
+
+Relevant automated tests pass.
+
+Linting, type checking, and production build complete successfully.
+
+Environment variables and external integrations are documented.
+
+Known limitations are explicitly listed.
+
+No external integration is described as operational unless it has been tested.
+
+FINAL INSTRUCTION
+
+Start by inspecting the existing repository and reporting the current stack, then implement the working MVP systematically.
+
+Make reasonable technical decisions without repeatedly asking questions about minor design details.
+
+Prioritize correctness, accessibility, security, maintainability, product accuracy, and a polished customer experience.
+
+Do not stop after generating a plan, wireframe, or homepage mockup. Build the actual application, connect its major workflows, test it, and document how to run and deploy it.
+
+The final result should be a professional foundation for a real LastCry business, with clear separation between implemented functionality, sandbox integrations, and future feature

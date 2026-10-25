@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#F6F3EC"/>
+  <rect x="32" y="32" width="736" height="536" rx="6" fill="#F0ECE3" stroke="#DED7CA"/>
+  <ellipse cx="400" cy="465" rx="200" ry="24" fill="#E2DBD0"/>
+  <!-- Solid Teakwood Frame -->
+  <rect x="290" y="160" width="220" height="285" rx="4" fill="#7C583C" stroke="#5A3E28" stroke-width="3"/>
+  <rect x="312" y="182" width="176" height="241" fill="#F7F4ED" stroke="#B6935A" stroke-width="2"/>
+  <rect x="342" y="216" width="116" height="155" fill="#EAE4D8" stroke="#D5CEC0" stroke-width="1.5"/>
+  <!-- Subtle Botanical Line Inside Frame -->
+  <path d="M385 330 Q400 280 415 250" stroke="#4A6353" stroke-width="2" fill="none"/>
+  <ellipse cx="408" cy="275" rx="12" ry="6" transform="rotate(-25 408 275)" fill="#6C8574"/>
+  <text x="400" y="515" text-anchor="middle" fill="#5C5852" font-family="sans-serif" font-size="13" letter-spacing="1.5">TEAKWOOD &amp; BRASS MEMORIAL FRAME · STUDIO PLACEHOLDER</text>
+</svg>

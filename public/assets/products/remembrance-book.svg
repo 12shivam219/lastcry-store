@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#F6F3EC"/>
+  <rect x="32" y="32" width="736" height="536" rx="6" fill="#F1EDE4" stroke="#DFD8CA"/>
+  <ellipse cx="400" cy="455" rx="220" ry="26" fill="#E3DDD1"/>
+  <!-- Linen-Bound Archival Remembrance Book -->
+  <rect x="250" y="210" width="300" height="220" rx="6" fill="#4A6353" stroke="#36493D" stroke-width="2.5"/>
+  <rect x="262" y="218" width="276" height="204" rx="4" fill="#FAF7F0" stroke="#D5CDC0" stroke-width="1.5"/>
+  <line x1="400" y1="218" x2="400" y2="422" stroke="#D5CDC0" stroke-width="2"/>
+  <line x1="290" y1="265" x2="375" y2="265" stroke="#B6935A" stroke-width="2"/>
+  <line x1="290" y1="292" x2="365" y2="292" stroke="#C7BFB2" stroke-width="1.5"/>
+  <line x1="290" y1="314" x2="372" y2="314" stroke="#C7BFB2" stroke-width="1.5"/>
+  <line x1="425" y1="265" x2="510" y2="265" stroke="#B6935A" stroke-width="2"/>
+  <line x1="425" y1="292" x2="500" y2="292" stroke="#C7BFB2" stroke-width="1.5"/>
+  <text x="400" y="515" text-anchor="middle" fill="#5C5852" font-family="sans-serif" font-size="13" letter-spacing="1.5">LINEN ARCHIVAL REMEMBRANCE BOOK · STUDIO PLACEHOLDER</text>
+</svg>
